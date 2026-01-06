@@ -29,6 +29,15 @@ const sidebars: SidebarsConfig = {
       },
       items: [],
     },
+    {
+      type: 'category',
+      label: 'Color Scheme',
+      link: {
+        type: 'doc',
+        id: 'colors/index',
+      },
+      items: [],
+    },
   ],
 };
 
