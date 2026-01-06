@@ -20,5 +20,5 @@ Each case study will include:
 
 ## Submit a Case Study
 
-Have a project you'd like to share? [Submit your case study](/docs/case-studies/submit) to help the community learn from your experience.
+Have a project you'd like to share? Reach out to us on [GitHub](https://github.com/applied-ai-society) to submit your case study.
 
