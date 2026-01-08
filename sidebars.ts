@@ -19,9 +19,28 @@ const sidebars: SidebarsConfig = {
         id: 'playbooks/index',
       },
       items: [
-        'playbooks/applied-ai-live',
-        'playbooks/finding-a-photographer',
-        'playbooks/case-study-interviews',
+        {
+          type: 'category',
+          label: 'Chapter Leader',
+          link: {
+            type: 'doc',
+            id: 'playbooks/chapter-leader/index',
+          },
+          items: [
+            'playbooks/chapter-leader/applied-ai-live',
+            'playbooks/chapter-leader/finding-a-photographer',
+            'playbooks/chapter-leader/case-study-interviews',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Practitioner',
+          link: {
+            type: 'doc',
+            id: 'playbooks/practitioner/index',
+          },
+          items: [],
+        },
       ],
     },
     {

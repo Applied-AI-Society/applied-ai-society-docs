@@ -39,7 +39,8 @@ This playbook is a work in progress. Component guides:
 
 | Playbook | Description |
 |----------|-------------|
-| [Finding a Photographer](/docs/playbooks/finding-a-photographer) | Sourcing affordable, reliable event photography |
+| [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) | Sourcing affordable, reliable event photography |
+| [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews) | Interviewing practitioners to create profiles |
 
 ### Coming Soon
 
