@@ -21,6 +21,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'playbooks/applied-ai-live',
         'playbooks/finding-a-photographer',
+        'playbooks/case-study-interviews',
       ],
     },
     {
