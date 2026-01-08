@@ -134,13 +134,13 @@ Do this **before** attendees arrive:
 
 ### Naming convention
 
-Use: `YYYY-MM-DD_EventName_Source`
+Use: `YYYY-MM-DD_City_EventName_Source`
 
 Examples:
-- `2026-01-29_AppliedAILive_MainCamera.mp4`
-- `2026-01-29_AppliedAILive_AudioBackup1.m4a`
-- `2026-01-29_AppliedAILive_RayBan.mp4`
-- `2026-01-29_AppliedAILive_PresenterSlides.pdf`
+- `2026-01-29_Austin_AppliedAILive_MainCamera.mp4`
+- `2026-01-29_Austin_AppliedAILive_AudioBackup1.m4a`
+- `2026-01-29_Austin_AppliedAILive_RayBan.mp4`
+- `2026-01-29_Austin_AppliedAILive_PresenterSlides.pdf`
 
 ### Post-event
 
