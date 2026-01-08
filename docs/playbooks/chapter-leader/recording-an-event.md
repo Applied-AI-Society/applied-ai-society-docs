@@ -22,7 +22,7 @@ The full event recording is one output. But the raw footage is also source mater
 
 ## Core Principle: Thriftiness
 
-Professional film crews charge $5,000-$10,000+ for event recording. You don't need that.
+Professional film crews charge thousands for event recording. You don't need that.
 
 With smartphones, consumer gear, and smart workflows, you can produce solid event recordings for almost nothing. Budget $50-100 for editing if you outsource it. The gear you already own.
 
