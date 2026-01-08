@@ -18,7 +18,10 @@ const sidebars: SidebarsConfig = {
         type: 'doc',
         id: 'playbooks/index',
       },
-      items: [],
+      items: [
+        'playbooks/applied-ai-live',
+        'playbooks/finding-a-photographer',
+      ],
     },
     {
       type: 'category',
