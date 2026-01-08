@@ -14,6 +14,9 @@ A practical guide for recording Applied AI Society events on a budget.
 1. **Reach people who couldn't attend** — Let them get value as if they were there
 2. **Build a content library** — Each event becomes a permanent resource
 3. **Show what the events are like** — Prospective attendees can see what they're signing up for
+4. **Create promotional clips** — Raw footage becomes reels and short-form content
+
+The full event recording is one output. But the raw footage is also source material for short clips: "We live architected a document processing system in 10 minutes" with cuts between the main camera, Ray-Ban POV, and whiteboard close-ups. These clips drive social engagement and attract new attendees.
 
 ---
 
@@ -193,15 +196,27 @@ Thanks,
 
 ## Final Output
 
+### Full event recording
+
 The finished video should:
 - **Weave together** main stage footage with screen share or whiteboard toggles
 - **Use the cleanest audio source** from your backups
 - **Feel immersive** — B-roll and POV footage help
 - **Be watchable** — Someone who missed the event should get full value
 
+### Short-form clips and reels
+
+Don't just publish the full recording. Cut the raw footage into short clips for social:
+- "We live architected a document processing pipeline" (2-3 min highlight)
+- "This business owner's AI problem, solved in real time" (60 sec reel)
+- Behind-the-scenes montage of the event vibe
+
+Mix sources: main camera for the presenter, Ray-Ban POV for whiteboard close-ups, audience reactions. These clips drive engagement and attract people to future events.
+
 ### Where to publish
 
-- **YouTube** — Create a channel for your chapter or use the main Applied AI Society channel
+- **YouTube** — Full recordings + short clips
+- **Instagram/TikTok/LinkedIn** — Reels and highlights
 - **Website** — Embed on the event page
 - **Newsletter** — Share with your mailing list
 
