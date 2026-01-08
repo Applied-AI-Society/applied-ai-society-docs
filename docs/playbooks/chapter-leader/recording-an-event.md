@@ -1,0 +1,245 @@
+---
+sidebar_position: 4
+title: Recording an Event
+---
+
+# Recording an Event
+
+A practical guide for recording Applied AI Society events on a budget.
+
+---
+
+## Why Record Events
+
+1. **Reach people who couldn't attend** — Let them get value as if they were there
+2. **Build a content library** — Each event becomes a permanent resource
+3. **Show what the events are like** — Prospective attendees can see what they're signing up for
+
+---
+
+## Core Principle: Thriftiness
+
+Professional film crews charge $5,000-$10,000+ for event recording. You don't need that.
+
+With smartphones, consumer gear, and smart workflows, you can produce solid event recordings for almost nothing. Budget $50-100 for editing if you outsource it. The gear you already own.
+
+---
+
+## Recording Setup Options
+
+### Option 1: DIY Basic
+
+**Cost:** $0 (gear you already have)
+
+- Smartphone on a tripod or phone stand
+- Built-in microphone
+- Continuous recording for the full event
+
+This works. The video quality from modern smartphones is good. Audio quality will be the weak point, especially in a room with echo or background noise.
+
+### Option 2: DIY Better
+
+**Cost:** $50-150 for a lavalier or bluetooth mic
+
+- Smartphone on a tripod for video
+- Separate audio recording with a lavalier mic on the presenter (wired or bluetooth)
+- Merge video and audio in post using Descript or similar
+
+This is the sweet spot. Good video, clean audio, affordable.
+
+### Option 3: Venue AV Support
+
+**Cost:** Often included with venue rental
+
+Some venues have in-house AV support. For example, Capital Factory in Austin provides recording capabilities as part of their event hosting.
+
+If your venue offers this, use it. Ask what they provide and what format you'll get the files in.
+
+---
+
+## Audio Backup Redundancy
+
+**Critical rule: always have multiple audio backups.**
+
+Devices fail. Batteries die. Storage fills up. If you only have one audio source and it fails, you have unusable footage.
+
+Run at least 2-3 of these simultaneously:
+
+| Backup | Notes |
+|--------|-------|
+| iPhone on stand | Plugged into charger, Voice Memos running |
+| Standalone voice recorder | Cheap and reliable, e.g., Sony ICD series |
+| Apple Watch | Voice Memos app, worn by you or staff |
+| Spare iPhone | Voice Memos running in your pocket or on a table |
+
+You'll pick the best audio source in post. The others are insurance.
+
+---
+
+## Meta Ray-Ban Glasses (Experimental)
+
+Smart glasses like Meta Ray-Bans add a unique dimension: host POV footage.
+
+Use them for:
+- **Close-ups of the whiteboard** during live architecting
+- **Business owner explaining their problem** — get up close
+- **Audience reactions** — pan the room naturally
+- **B-roll** — arrivals, networking, the vibe of the space
+
+This footage won't be your primary source, but it adds personality and immersion. It makes viewers feel like they're in the room with you.
+
+One tap to start/stop recording. Wear them throughout the event.
+
+---
+
+## What to Capture
+
+### Primary footage
+
+- Main stage / presenter (this is most of your final video)
+- Screen share if they're presenting slides
+- Whiteboard close-ups if they're drawing/architecting
+
+### Secondary footage (B-roll)
+
+- Audience listening, reacting
+- Networking conversations
+- People arriving, registering
+- The room setup, signage
+
+### Raw materials
+
+Ask presenters for their slides or any materials they used. Useful for the edit and for follow-up content.
+
+---
+
+## Pre-Event Tech Check
+
+Do this **before** attendees arrive:
+
+- [ ] All devices fully charged
+- [ ] Storage cleared (delete old files, check available space)
+- [ ] Tripod/stand stable and positioned
+- [ ] Test audio levels — record 30 seconds, play it back
+- [ ] Backup audio devices ready and tested
+- [ ] Smart glasses synced and charged (if using)
+- [ ] Know how to start/stop recording on all devices
+
+---
+
+## File Management
+
+### Naming convention
+
+Use: `YYYY-MM-DD_EventName_Source`
+
+Examples:
+- `2026-01-29_AppliedAILive_MainCamera.mp4`
+- `2026-01-29_AppliedAILive_AudioBackup1.m4a`
+- `2026-01-29_AppliedAILive_RayBan.mp4`
+- `2026-01-29_AppliedAILive_PresenterSlides.pdf`
+
+### Post-event
+
+1. **Upload to cloud immediately** — Don't wait. Phones get lost, drives fail.
+2. **Organize by event date** — One folder per event
+3. **Keep raw files** — Never delete originals until final video is published
+
+---
+
+## Finding an Editor
+
+You can edit this yourself, but if you want to outsource:
+
+### Budget
+
+$50-100 for a 2-hour event edit is reasonable. You're asking for:
+- Sync audio to video
+- Cut dead time (setup, breaks)
+- Basic transitions between segments
+- Add title cards if needed
+
+### How to find someone
+
+Same approach as [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer):
+- Ask your network
+- Look for film students or freelancers building their portfolio
+- Trust and reliability matter more than flashy reels
+
+### Template outreach
+
+```
+Subject: Video editing for Applied AI Society event
+
+Hey [NAME],
+
+I'm looking for someone to edit a 2-hour event recording for the Applied AI Society.
+
+The raw footage is already captured. I need:
+- Audio synced to video (I have multiple sources)
+- Dead time cut (setup, breaks)
+- Basic transitions between segments
+- Title cards at the start
+
+Budget is around $[75-100]. Turnaround within 1 week would be ideal.
+
+Let me know if you're interested and I'll share the raw files.
+
+Thanks,
+[YOUR NAME]
+```
+
+---
+
+## Final Output
+
+The finished video should:
+- **Weave together** main stage footage with screen share or whiteboard toggles
+- **Use the cleanest audio source** from your backups
+- **Feel immersive** — B-roll and POV footage help
+- **Be watchable** — Someone who missed the event should get full value
+
+### Where to publish
+
+- **YouTube** — Create a channel for your chapter or use the main Applied AI Society channel
+- **Website** — Embed on the event page
+- **Newsletter** — Share with your mailing list
+
+---
+
+## Checklists
+
+### Before the event
+
+- [ ] Primary camera (smartphone) charged and storage cleared
+- [ ] Tripod/stand ready
+- [ ] Lavalier or bluetooth mic tested (if using)
+- [ ] 2-3 audio backup devices ready
+- [ ] Smart glasses charged and synced (if using)
+- [ ] Know start/stop for all devices
+- [ ] Editor lined up (if outsourcing)
+
+### During the event
+
+- [ ] Start all recordings before programming begins
+- [ ] Check devices periodically (still recording? battery okay?)
+- [ ] Capture B-roll during breaks
+- [ ] Get close-up footage of key moments (whiteboarding, Q&A)
+- [ ] Collect presenter slides/materials
+
+### After the event
+
+- [ ] Stop all recordings
+- [ ] Upload all files to cloud backup immediately
+- [ ] Name files with convention: `YYYY-MM-DD_EventName_Source`
+- [ ] Send raw files to editor (if outsourcing)
+- [ ] Review rough cut
+- [ ] Publish final video to YouTube
+- [ ] Share in newsletter and on social
+
+---
+
+## See Also
+
+- [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) — Similar approach for finding reliable help
+- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) — Full event playbook

@@ -29,6 +29,7 @@ const sidebars: SidebarsConfig = {
           items: [
             'playbooks/chapter-leader/applied-ai-live',
             'playbooks/chapter-leader/finding-a-photographer',
+            'playbooks/chapter-leader/recording-an-event',
             'playbooks/chapter-leader/case-study-interviews',
           ],
         },
