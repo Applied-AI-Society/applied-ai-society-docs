@@ -96,10 +96,10 @@ A typical 2-hour Applied AI Live event:
 |------|---------|
 | 5:30 PM | Doors open. Food out. Networking. |
 | 6:00 PM | Welcome + housekeeping (5 min) |
-| 6:05 PM | Practitioner talk #1 — Case study (15–20 min) |
-| 6:25 PM | Practitioner talk #2 — Case study (15–20 min) |
-| 6:45 PM | Live architecture session — Business owner presents problem, engineer architects solution on whiteboard (30 min) |
-| 7:15 PM | Open networking + Q&A |
+| 6:05 PM | Sponsor remarks (10–15 min) |
+| 6:20 PM | Practitioner talk — Case study with Q&A (30 min) |
+| 6:50 PM | Live architecture session — Business owner presents problem, engineer architects solution on whiteboard (30 min) |
+| 7:20 PM | Open networking |
 | 7:30 PM | Wrap |
 
 Adjust based on your speakers and venue. The live architecture session is the signature element. Protect time for it.
