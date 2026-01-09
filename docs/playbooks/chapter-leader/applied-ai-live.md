@@ -88,7 +88,72 @@ Three different colors of blank name tags. Assign one color per role. Announce t
 
 Blank adhesive name tags come in multi-color packs. Check Amazon or any office supply store. A pack of 200 costs ~$10.
 
-*More detailed guidance on name tag logistics coming soon.*
+### Custom Printing
+
+For custom name tags or sticker sheets, local print shops offer fast turnaround (often 2 days). Expect ~$90 for 72 custom stickers. Services like Sticker Mule work well for bulk orders.
+
+**Conversation starter stickers** are a nice add-on. Small stickers people can add to their name tags like "Ask me what I'm building" or "Open to work" help break the ice.
+
+---
+
+## Food & Drinks
+
+Keep it thrifty and replicable. The goal is programming valuable enough that people come for that, not fancy catering.
+
+### The Default: Subs or Pizza
+
+For a 5:30–7:30pm event, people will be hungry. Options:
+
+| Option | Notes |
+|--------|-------|
+| **Jimmy John's subs** | Cut into pieces. Include vegan options. ~$8–10 per sub. |
+| **Pizza** | Classic engineer event food. Cheap. Everyone knows what to expect. |
+| **Small bites** | Cheese, meats, vegetables, small sandwiches. More upscale but pricier. |
+
+### How Much?
+
+For free events, expect about **30–50% of RSVPs to actually show up**. If you have 100 RSVPs, plan food for 50.
+
+Don't advertise it as a dinner event. Frame it as "light food provided" or first-come-first-serve.
+
+### Drinks
+
+- Cases of bottled water (~$5–10)
+- Cups for people who prefer using a water fountain
+- No need for anything fancier unless the venue provides it
+
+---
+
+## Registration
+
+### Setup
+
+- Laptop with Luma (or your registration platform) open
+- Name tags sorted by color/role
+- One or two people at the desk
+
+### Flow
+
+1. Attendee arrives
+2. Check them in on Luma
+3. Hand them the appropriate name tag based on their role
+4. Point them toward food/networking area
+
+Having an extroverted "connector" person near registration helps. Someone who can introduce newcomers to each other and break the ice.
+
+---
+
+## Cleanup
+
+Before you leave:
+
+- [ ] Collect leftover food (offer to attendees first)
+- [ ] Gather trash, dispose properly
+- [ ] Return furniture to original positions
+- [ ] Check for any personal items left behind
+- [ ] Thank venue staff
+
+Most venues appreciate when you leave things cleaner than you found them. It helps with future partnerships.
 
 ---
 
