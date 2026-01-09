@@ -58,6 +58,26 @@ This playbook is a work in progress. Component guides:
 
 ---
 
+## Budget
+
+Applied AI Live events should be cheap to run. The goal is replicability. Any chapter should be able to host one without a huge budget.
+
+**Rough estimate for a 50-person event:**
+
+| Category | Range |
+|----------|-------|
+| Venue | $0 (partner venue) |
+| Food | $100–200 |
+| Drinks | $10–20 |
+| Name tags | $10–100 |
+| Photographer | $0–150 |
+| Recording | $0 (iPhone + tripod) |
+| **Total** | **$120–480** |
+
+If you have a venue partner and do your own photos/video, you can run an event for under $150.
+
+---
+
 ## Name Tags: Color-Coded by Role
 
 One small thing that makes a big difference: **color-coded name tags**.
@@ -112,7 +132,7 @@ For a 5:30–7:30pm event, people will be hungry. Options:
 
 ### How Much?
 
-For free events, expect about **30–50% of RSVPs to actually show up**. If you have 100 RSVPs, plan food for 50.
+For free events, expect **50% of RSVPs to actually show up**. If you have 100 RSVPs, plan food for 50.
 
 Don't advertise it as a dinner event. Frame it as "light food provided" or first-come-first-serve.
 
