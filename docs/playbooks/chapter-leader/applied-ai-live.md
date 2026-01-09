@@ -24,10 +24,13 @@ This isn't a lecture series. It's a working session for people in the trenches.
 
 ## Who Should Attend?
 
-- Engineers and developers building a career (or side income) in applied AI
-- New grads trying to stand out in a changed job market
-- Technical leaders evaluating AI tools and workflows
-- Business owners curious about what's actually possible
+Three types of people:
+
+| Type | Description |
+|------|-------------|
+| **Applied AI Engineers** | Engineers and developers building a career (or side income) helping businesses implement AI. Includes new grads trying to stand out. |
+| **Business Owners** | People with real business problems who want to understand what's possible and find trustworthy help. |
+| **Tool Builders** | Technical leaders building platforms, frameworks, or infrastructure for applied AI. Looking for practitioner feedback. |
 
 ---
 
@@ -52,6 +55,39 @@ This playbook is a work in progress. Component guides:
 | Event Promotion | Getting the word out effectively |
 | Day-of Logistics | Running a smooth event |
 | Post-Event Follow-up | Maximizing value after the event ends |
+
+---
+
+## Name Tags: Color-Coded by Role
+
+One small thing that makes a big difference: **color-coded name tags**.
+
+The goal is to help attendees find each other. An Applied AI Engineer looking for business owners to help should be able to spot them across the room. A Tool Builder looking for practitioner feedback should know who to approach.
+
+### The Ideal
+
+Printed name tags with role labels:
+- "Applied AI Engineer"
+- "Business Owner"
+- "Tool Builder"
+
+### The Easy, Cheap Version
+
+Three different colors of blank name tags. Assign one color per role. Announce the color coding at the start of the event.
+
+| Color | Role |
+|-------|------|
+| 🟠 Orange | Applied AI Engineer |
+| 🔵 Blue | Business Owner |
+| 🟢 Green | Tool Builder |
+
+(Pick whatever colors are available. Just be consistent.)
+
+### Where to Get Them
+
+Blank adhesive name tags come in multi-color packs. Check Amazon or any office supply store. A pack of 200 costs ~$10.
+
+*More detailed guidance on name tag logistics coming soon.*
 
 ---
 
