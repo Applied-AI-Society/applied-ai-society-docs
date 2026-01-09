@@ -57,12 +57,16 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Color Scheme',
+      label: 'Brand',
       link: {
         type: 'doc',
-        id: 'colors/index',
+        id: 'brand/index',
       },
-      items: [],
+      items: [
+        'brand/colors',
+        'brand/typography',
+        'brand/assets',
+      ],
     },
   ],
 };
