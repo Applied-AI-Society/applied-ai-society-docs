@@ -66,10 +66,11 @@ The goal is to help attendees find each other. An Applied AI Engineer looking fo
 
 ### The Ideal
 
-Printed name tags with role labels:
-- "Applied AI Engineer"
-- "Business Owner"
-- "Tool Builder"
+Printed name tags with:
+- **Role at the top**: "Applied AI Engineer," "Business Owner," or "Tool Builder"
+- **Event name at the bottom**: "Applied AI Live"
+
+This way people know who they're talking to and remember what event they met at.
 
 ### The Easy, Cheap Version
 
