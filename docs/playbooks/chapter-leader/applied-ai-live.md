@@ -88,6 +88,41 @@ Sponsorship gives you more flexibility, but it's not a precedent you need to set
 
 ---
 
+## Example Run of Show
+
+A typical 2-hour Applied AI Live event:
+
+| Time | Segment |
+|------|---------|
+| 5:30 PM | Doors open. Food out. Networking. |
+| 6:00 PM | Welcome + housekeeping (5 min) |
+| 6:05 PM | Practitioner talk #1 — Case study (15–20 min) |
+| 6:25 PM | Practitioner talk #2 — Case study (15–20 min) |
+| 6:45 PM | Live architecture session — Business owner presents problem, engineer architects solution on whiteboard (30 min) |
+| 7:15 PM | Open networking + Q&A |
+| 7:30 PM | Wrap |
+
+Adjust based on your speakers and venue. The live architecture session is the signature element. Protect time for it.
+
+---
+
+## Audio/Visual
+
+Keep it simple. You don't need a full AV setup.
+
+**The basics:**
+- A handheld mic or portable speaker so presenters can be heard
+- A screen or TV if someone is presenting slides (optional)
+- Whiteboard or large sticky notes for live architecture sessions
+
+Many venues provide basic AV. Ask during your venue walkthrough.
+
+If the room is small enough (under 30 people) and acoustics are good, you might not need a mic at all. But for larger groups or noisy spaces, make sure speakers can project.
+
+For recording considerations, see the [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) playbook.
+
+---
+
 ## Name Tags: Color-Coded by Role
 
 One small thing that makes a big difference: **color-coded name tags**.
