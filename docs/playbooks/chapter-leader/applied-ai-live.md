@@ -177,6 +177,24 @@ Most venues appreciate when you leave things cleaner than you found them. It hel
 
 ---
 
+## Thanking Partners
+
+Gratitude is key. After an event, take time to thank the people who made it happen:
+
+- Venue hosts
+- Speakers and presenters
+- Volunteers who helped with registration, photos, or setup
+- Sponsors
+- Community partners who helped promote
+
+A quick thank-you text is fine. A voice note is better. A heartfelt voice note ecard is memorable.
+
+**Tool recommendation:** [Blessout](https://blessout.com/) lets you send voice note ecards. Record a genuine thank-you, pick a visual, and send. Takes 2 minutes. Makes people feel appreciated.
+
+Partnerships compound. The venue that felt thanked is more likely to host you again. The speaker who felt valued will refer other speakers. Small gestures build long-term relationships.
+
+---
+
 ## Past Events
 
 **Applied AI Live — Austin, TX**  
