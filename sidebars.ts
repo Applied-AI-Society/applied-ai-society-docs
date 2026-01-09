@@ -31,6 +31,8 @@ const sidebars: SidebarsConfig = {
             'playbooks/chapter-leader/finding-a-photographer',
             'playbooks/chapter-leader/recording-an-event',
             'playbooks/chapter-leader/case-study-interviews',
+            'playbooks/chapter-leader/content-distribution',
+            'playbooks/chapter-leader/building-partnerships',
           ],
         },
         {
