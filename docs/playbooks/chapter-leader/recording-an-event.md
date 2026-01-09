@@ -38,9 +38,11 @@ With smartphones, consumer gear, and smart workflows, you can produce solid even
 - Built-in microphone
 - Continuous recording for the full event
 
-This works. The video quality from modern smartphones is good. Audio quality will be the weak point, especially in a room with echo or background noise.
+This often works better than you'd expect. Modern smartphone cameras are excellent. And if your presenters are using handheld mics amplified through room speakers, your phone can capture that audio just fine. Put the phone on a stand at a reasonable distance and let it roll.
 
-### Option 2: DIY Better
+Audio only becomes a problem in quiet rooms with no amplification, or spaces with bad echo.
+
+### Option 2: DIY Better (for unamplified rooms)
 
 **Cost:** $50-150 for a lavalier or bluetooth mic
 
@@ -48,7 +50,7 @@ This works. The video quality from modern smartphones is good. Audio quality wil
 - Separate audio recording with a lavalier mic on the presenter (wired or bluetooth)
 - Merge video and audio in post using Descript or similar
 
-This is the sweet spot. Good video, clean audio, affordable.
+This is worth it if your venue doesn't have amplified speakers. But if presenters are already miced up to a PA system, you probably don't need this.
 
 ### Option 3: Venue AV Support
 
