@@ -76,6 +76,16 @@ Applied AI Live events should be cheap to run. The goal is replicability. Any ch
 
 If you have a venue partner and do your own photos/video, you can run an event for under $150.
 
+### The Human Cost
+
+Ideally, the organizer's time and any volunteer help (photography, registration, etc.) isn't "paid for" in the traditional sense. The value is intrinsic: these are people who genuinely want to network with this community. Running or helping with the event gives them access and credibility.
+
+Find people who want to be there anyway. The photographer who's an aspiring applied AI engineer. The volunteer who wants to meet business owners. That's the model.
+
+### On Sponsorship
+
+Sponsorship gives you more flexibility, but it's not a precedent you need to set. The beauty of keeping events cheap is that any chapter can run them without waiting for funding. Sponsorship is a nice-to-have, not a requirement.
+
 ---
 
 ## Name Tags: Color-Coded by Role
