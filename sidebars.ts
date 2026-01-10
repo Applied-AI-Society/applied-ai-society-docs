@@ -33,6 +33,7 @@ const sidebars: SidebarsConfig = {
             'playbooks/chapter-leader/case-study-interviews',
             'playbooks/chapter-leader/content-distribution',
             'playbooks/chapter-leader/building-partnerships',
+            'playbooks/chapter-leader/tools',
           ],
         },
         {
