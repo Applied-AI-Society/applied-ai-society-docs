@@ -64,9 +64,7 @@ const sidebars: SidebarsConfig = {
         id: 'brand/index',
       },
       items: [
-        'brand/colors',
-        'brand/typography',
-        'brand/assets',
+        'brand/ai-generation',
       ],
     },
   ],
