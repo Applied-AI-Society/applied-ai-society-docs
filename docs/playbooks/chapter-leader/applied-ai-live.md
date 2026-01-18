@@ -42,6 +42,8 @@ This playbook is a work in progress. Component guides:
 
 | Playbook | Description |
 |----------|-------------|
+| [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session) | Finding the right business owner and prepping the engineer |
+| [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue) | Securing a recurring partner space |
 | [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) | Sourcing affordable, reliable event photography |
 | [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) | Capturing video on a budget |
 | [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews) | Interviewing practitioners to create profiles |
@@ -50,11 +52,67 @@ This playbook is a work in progress. Component guides:
 
 | Playbook | Description |
 |----------|-------------|
-| Finding a Venue | Securing the right space for your event |
 | Speaker Outreach | Recruiting practitioners to share case studies |
 | Event Promotion | Getting the word out effectively |
 | Day-of Logistics | Running a smooth event |
 | Post-Event Follow-up | Maximizing value after the event ends |
+
+---
+
+## Master Checklist
+
+A high-level view of everything that goes into running an Applied AI Live event. Links point to detailed guides where available.
+
+### 4+ Weeks Before
+
+- [ ] Secure venue (partner space preferred) — [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue)
+- [ ] Confirm practitioner speaker for case study — [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews)
+- [ ] Find business owner for live architecture session — [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session)
+- [ ] Confirm Applied AI Engineer to architect the solution
+- [ ] Create event page (Meetup and/or Luma) — [Tools](/docs/playbooks/chapter-leader/tools)
+
+### 3 Weeks Before
+
+- [ ] Start promoting the event (social, community channels, word of mouth)
+- [ ] Confirm photographer — [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer)
+- [ ] Figure out recording setup — [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event)
+- [ ] Order name tags (color-coded or custom printed)
+
+### 2 Weeks Before
+
+- [ ] Conduct pre-call with business owner
+- [ ] Write problem brief from pre-call — [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session)
+- [ ] Send problem brief to engineer
+- [ ] Continue promoting and accepting RSVPs
+- [ ] Schedule food delivery
+
+### 1 Week Before
+
+- [ ] Reconfirm with photographer and videographer
+- [ ] Pick up custom stickers/name tags if not delivered
+- [ ] Confirm food delivery plan
+- [ ] Confirm AV setup with venue
+- [ ] Reconfirm with all speakers
+
+### Day Of
+
+- [ ] Send a hype video in the morning (see below)
+- [ ] Arrive early for setup
+- [ ] Set up registration table with laptop and name tags
+- [ ] Confirm food delivery and arrange spread
+- [ ] Brief photographer and videographer
+- [ ] Run the event (see Run of Show below)
+- [ ] Clean up and thank venue staff
+
+**The morning hype video:**
+If your event is in the evening, record a quick video that morning. Post it to social and send it to RSVPs. Get people excited. Remind them this isn't a normal meetup. Cover what's happening, why it matters, and what they'll get out of attending. Bonus: film it at or near the venue. Show them where to park, which entrance to use, any logistical details that reduce friction. A personal video converts more RSVPs into actual attendees.
+
+### After the Event
+
+- [ ] Thank partners, speakers, and volunteers
+- [ ] Share photos and recording with attendees
+- [ ] Collect feedback
+- [ ] Update this playbook with lessons learned
 
 ---
 
