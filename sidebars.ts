@@ -33,6 +33,7 @@ const sidebars: SidebarsConfig = {
             'playbooks/chapter-leader/case-study-interviews',
             'playbooks/chapter-leader/content-distribution',
             'playbooks/chapter-leader/building-partnerships',
+            'playbooks/chapter-leader/hosting-an-event',
             'playbooks/chapter-leader/tools',
           ],
         },
@@ -67,6 +68,7 @@ const sidebars: SidebarsConfig = {
         'brand/ai-generation',
       ],
     },
+    'code-of-conduct',
   ],
 };
 
