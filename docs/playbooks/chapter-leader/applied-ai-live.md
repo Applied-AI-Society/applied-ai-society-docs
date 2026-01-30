@@ -103,6 +103,7 @@ A high-level view of everything that goes into running an Applied AI Live event.
 - [ ] Confirm food delivery and arrange spread
 - [ ] Set computer to never sleep/hibernate
 - [ ] Test both mics
+- [ ] Charge portable speaker and queue up music playlist
 - [ ] Brief photographer and videographer
 - [ ] Run the event (see Run of Show below)
 - [ ] Clean up and thank venue staff
@@ -194,6 +195,28 @@ Many venues provide basic AV. Ask during your venue walkthrough.
 If the room is small enough (under 30 people) and acoustics are good, you might not need a mic at all. But for larger groups or noisy spaces, make sure speakers can project.
 
 For recording considerations, see the [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) playbook.
+
+---
+
+## Music
+
+Background music during networking windows (doors open, breaks, post-event) makes a huge difference. A quiet room feels awkward. Music sets the vibe and gives people permission to talk.
+
+**The setup:**
+- A portable Bluetooth speaker, plugged in so it doesn't die
+- Volume low enough that people can talk without raising their voices
+- Kill the music when someone is on mic
+
+**What to play:**
+- No lyrics. Instrumental, lo-fi, or ambient works best. Lyrics compete with conversation.
+- Chill but energetic. You want warm, social energy, not a library or a club.
+- Curated playlists beat random radio. Pick something ahead of time and let it run.
+
+**Recommended playlists:**
+- [Spotify: Lo-Fi Beats](https://open.spotify.com/playlist/37i9dQZF1DX889U0CL85jj) (instrumental, low-key, crowd-tested)
+- [YouTube: Lo-Fi Girl livestream](https://www.youtube.com/watch?v=PLLRRXURicM) (reliable fallback, always on)
+
+Add "Charge portable speaker" and "Queue up music playlist" to your Day Of checklist.
 
 ---
 
