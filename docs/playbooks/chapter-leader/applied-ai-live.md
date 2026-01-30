@@ -77,6 +77,7 @@ A high-level view of everything that goes into running an Applied AI Live event.
 - [ ] Confirm photographer — [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer)
 - [ ] Figure out recording setup — [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event)
 - [ ] Order name tags (color-coded or custom printed)
+- [ ] Order branded staff shirts
 
 ### 2 Weeks Before
 
@@ -96,16 +97,21 @@ A high-level view of everything that goes into running an Applied AI Live event.
 
 ### Day Of
 
-- [ ] Send a hype video in the morning (see below)
+- [ ] Send a hype video and/or reminder blast in the morning (see below)
 - [ ] Arrive early for setup
 - [ ] Set up registration table with laptop and name tags
 - [ ] Confirm food delivery and arrange spread
+- [ ] Set computer to never sleep/hibernate
+- [ ] Test both mics
 - [ ] Brief photographer and videographer
 - [ ] Run the event (see Run of Show below)
 - [ ] Clean up and thank venue staff
 
 **The morning hype video:**
 If your event is in the evening, record a quick video that morning. Post it to social and send it to RSVPs. Get people excited. Remind them this isn't a normal meetup. Cover what's happening, why it matters, and what they'll get out of attending. Bonus: film it at or near the venue. Show them where to park, which entrance to use, any logistical details that reduce friction. A personal video converts more RSVPs into actual attendees.
+
+**The day-of reminder blast:**
+In addition to (or instead of) a video, send a written blast to your RSVP list the morning or midday of the event. Paint a picture of what attending means for them. At Applied AI Live #1, a blast went out at 11:29 AM with the subject line *"For many of you, tonight is the night that changes everything"* — a future-looking message that asked RSVPs to imagine looking back a year from now on all the clients, friendships, and partnerships that started that night. It closed with urgency without pressure: "If you can't make it tonight, that's okay, we're going to have more events. But I think you're going to want to be here for the launch." This likely contributed to the 40% show rate (above the typical ~35%). Make it personal, make it vivid, and send it early enough that people can adjust their evening plans.
 
 ### After the Event
 
@@ -120,19 +126,20 @@ If your event is in the evening, record a quick video that morning. Post it to s
 
 Applied AI Live events should be cheap to run. The goal is replicability. Any chapter should be able to host one without a huge budget.
 
-**Rough estimate for a 50-person event:**
+**Real costs from Applied AI Live #1 (~100 attendees):**
 
-| Category | Range |
-|----------|-------|
+| Category | Actual Cost |
+|----------|-------------|
 | Venue | $0 (partner venue) |
-| Food | $100–200 |
-| Drinks | $10–20 |
-| Name tags | $10–100 |
-| Photographer | $0–150 |
-| Recording | $0 (iPhone + tripod) |
-| **Total** | **$120–480** |
+| Food (Firehouse Subs, small platters) | ~$250 |
+| Videography + photography (one person) | ~$300 |
+| Branded shirts (10, for staff/volunteers/speakers) | ~$100–150 |
+| Printed flyers | ~$70 |
+| Name tags (Minuteman Press) | ~$50 |
+| Registration desk | $0 (volunteers) |
+| **Total** | **~$770–820** |
 
-If you have a venue partner and do your own photos/video, you can run an event for under $150.
+**Budget roughly $1,000 for an Applied AI Live event.** This assumes a free venue through partnerships — which is why partnerships are so important (see [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships)). If you handle your own photos/video and skip shirts, you can run leaner, but the full experience is worth the investment.
 
 ### The Human Cost
 
@@ -143,6 +150,8 @@ Find people who want to be there anyway. The photographer who's an aspiring appl
 ### On Sponsorship
 
 Sponsorship gives you more flexibility, but it's not a precedent you need to set. The beauty of keeping events cheap is that any chapter can run them without waiting for funding. Sponsorship is a nice-to-have, not a requirement.
+
+The Applied AI Society is supported by founding sponsors **OpenTeams** and **OT Incubator**. [Learn more about our founding sponsors](/).
 
 ---
 
@@ -162,6 +171,8 @@ A typical 2-hour Applied AI Live event:
 
 Adjust based on your speakers and venue. The live architecture session is the signature element. Protect time for it.
 
+**Tip:** Use auto-rotating animated slides during downtime and transitions (doors open, breaks, networking). This keeps the screen active with branding, sponsor info, or upcoming announcements instead of a static or blank display. It fills dead air visually and keeps energy in the room.
+
 ---
 
 ## Audio/Visual
@@ -174,6 +185,11 @@ Keep it simple. You don't need a full AV setup.
 - Whiteboard or large sticky notes for live architecture sessions
 
 Many venues provide basic AV. Ask during your venue walkthrough.
+
+**Warnings from Live #1:**
+- **Set your computer to never sleep/hibernate.** At our first event, the computer went to sleep mid-presentation. Avoid this by changing your power settings before the event starts.
+- **Bring a backup mic.** Only one of our two mics worked at Live #1. The workaround: the host spoke loudly without a mic so the guest could use the single working mic. It worked, but having a backup would have been better.
+- **TV/display connectivity can be finicky.** The TV required on/off cycling to connect to the laptop. Test this during setup, not during the event.
 
 If the room is small enough (under 30 people) and acoustics are good, you might not need a mic at all. But for larger groups or noisy spaces, make sure speakers can project.
 
@@ -213,9 +229,25 @@ Blank adhesive name tags come in multi-color packs. Check Amazon or any office s
 
 ### Custom Printing
 
-For custom name tags or sticker sheets, local print shops offer fast turnaround (often 2 days). Expect ~$90 for 72 custom stickers. Services like Sticker Mule work well for bulk orders.
+For custom name tags or sticker sheets, local print shops offer fast turnaround (often 2 days). Expect ~$90 for 72 custom stickers. Services like Sticker Mule work well for bulk orders. **Minuteman Press** is another reliable vendor for custom printing with locations nationwide.
+
+At Applied AI Live #1, attendees called the custom name tags out as a highlight. They made the purpose of the event immediately legible — people could tell at a glance who was an engineer, who was a business owner, and who was building tools. Don't underestimate this detail.
+
+![Custom printed name tags from Applied AI Live #1](/img/events/live-1/nametags.jpg)
 
 **Conversation starter stickers** are a nice add-on. Small stickers people can add to their name tags like "Ask me what I'm building" or "Open to work" help break the ice.
+
+---
+
+## Branded Shirts
+
+A small investment that punches above its weight. At Live #1, we ordered ~10 branded shirts for ~$100. Minimalistic design: white text, orange gradient on black. Staff wore them at the registration desk.
+
+The effect is instant professionalism. Attendees walk in and immediately see an organized team. It signals that this isn't a casual hangout — it's a real event run by real people. Great ROI for perceived quality.
+
+Order them 3+ weeks before your event to allow for printing and shipping. Keep the design simple. The brand should be recognizable but not loud.
+
+![The Applied AI Society branded shirt](/img/events/live-1/rostam-shirt.jpg)
 
 ---
 
@@ -230,8 +262,13 @@ For a 5:30–7:30pm event, people will be hungry. Options:
 | Option | Notes |
 |--------|-------|
 | **Jimmy John's subs** | Cut into pieces. Include vegan options. ~$8–10 per sub. |
+| **Firehouse Subs** | Proven at Live #1. ~$250 for a large group. Include veggie options. Substantial and crowd-pleasing. |
 | **Pizza** | Classic engineer event food. Cheap. Everyone knows what to expect. |
 | **Small bites** | Cheese, meats, vegetables, small sandwiches. More upscale but pricier. |
+
+Have food ready **25 minutes before doors open**. Early arrivals set the social tone for the whole event. When people walk in to food already laid out, they start networking immediately instead of standing around waiting. Always include veggie options.
+
+![Firehouse Subs platters — the proven option](/img/events/live-1/firehouse-subs.png)
 
 ### How Much?
 
@@ -300,10 +337,12 @@ Partnerships compound. The venue that felt thanked is more likely to host you ag
 
 ## Past Events
 
-**Applied AI Live — Austin, TX**  
-Hosted at Antler VC with AITX community. Featured Travis Oliphant (creator of NumPy/SciPy, founder of OpenTeams) and Rostam Mahabadi (AITX x NVIDIA Hackathon grand prize winner).
+**Applied AI Live #1 — Austin, TX (January 2026)**
+Hosted at Antler VC with AITX community. Featured Travis Oliphant (creator of NumPy/SciPy, founder of OpenTeams) and Rostam Mahabadi (AITX x NVIDIA Hackathon grand prize winner). ~100 check-ins with a 40% show rate (above the typical ~35% for similar meetups). Debuted a custom Q&A platform with QR codes on every slide and AI moderation using the NumFOCUS code of conduct.
 
 [View event page →](https://luma.com/3rl1oy7w)
+
+![Packed room at Applied AI Live #1, Antler VC Austin](/img/events/live-1/shot-02-crowd-wide.jpg)
 
 ---
 

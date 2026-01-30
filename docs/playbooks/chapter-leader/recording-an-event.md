@@ -28,6 +28,16 @@ With smartphones, consumer gear, and smart workflows, you can produce solid even
 
 ---
 
+### Consider a Dedicated Camera Person
+
+If your budget allows, hiring a dedicated camera person is worth the spend. At Applied AI Live #1, Brian Cruz handled camera duties at a reasonable cost. The difference between a person with dedicated equipment — even standard-tier gear — and an iPhone propped up on a tripod is significant. A camera person can follow the action, get close-ups of the whiteboard during live architecture sessions, and capture audience reactions in real time.
+
+You don't need a professional film crew. One reliable person with a decent camera and some event experience is enough. The footage quality jumps noticeably, which matters when you're cutting clips for social and building your content library.
+
+![Dedicated camera setup at Applied AI Live #1](/img/events/live-1/camera-view.png)
+
+---
+
 ## Recording Setup Options
 
 ### Option 1: DIY Basic
@@ -129,6 +139,7 @@ Do this **before** attendees arrive:
 - [ ] Backup audio devices ready and tested
 - [ ] Smart glasses synced and charged (if using)
 - [ ] Know how to start/stop recording on all devices
+- [ ] Test display connection to venue TV/projector (cycling on/off may be needed)
 
 ---
 

@@ -29,12 +29,21 @@ const sidebars: SidebarsConfig = {
           items: [
             'playbooks/chapter-leader/applied-ai-live',
             'playbooks/chapter-leader/finding-a-photographer',
+            'playbooks/chapter-leader/finding-a-venue',
             'playbooks/chapter-leader/recording-an-event',
             'playbooks/chapter-leader/case-study-interviews',
             'playbooks/chapter-leader/content-distribution',
             'playbooks/chapter-leader/building-partnerships',
             'playbooks/chapter-leader/hosting-an-event',
+            'playbooks/chapter-leader/live-architecture-session',
+            'playbooks/chapter-leader/getting-things-done',
             'playbooks/chapter-leader/tools',
+            {
+              type: 'category',
+              label: 'Event Recaps',
+              link: { type: 'doc', id: 'playbooks/chapter-leader/event-recaps/index' },
+              items: ['playbooks/chapter-leader/event-recaps/applied-ai-live-1'],
+            },
           ],
         },
         {

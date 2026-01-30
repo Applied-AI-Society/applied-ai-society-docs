@@ -7,6 +7,8 @@ title: Hosting an Event
 
 The soft skills, mental frameworks, and actual words that come out of your mouth when you're the host.
 
+![Gary Sheng hosting Applied AI Live #1 at Antler VC](/img/events/live-1/shot-01-gary-speaking.jpg)
+
 ---
 
 ## The Host's Job
@@ -163,6 +165,8 @@ This is the room. These are your people. Make sure you meet someone new tonight.
 
 Okay. Let's bring up [Speaker Name].
 ```
+
+If you're using a custom Q&A platform, announce the QR code early in this segment. At Applied AI Live #1, having a QR code on every slide drove engagement throughout the event. The AI moderation (using the NumFOCUS code of conduct) worked on its first outing and kept questions on-topic without manual filtering.
 
 ---
 
@@ -349,6 +353,12 @@ Things will go wrong. Here's how to handle common situations.
 ```
 Tech is keeping us humble tonight. [To speaker] Want to just talk us through it while we figure this out?
 ```
+
+**TV won't connect:**
+Try cycling the display off and on. At Applied AI Live #1, the TV required on/off cycling before it recognized the laptop. Stay calm, narrate what's happening, and have someone troubleshoot while you keep the audience engaged with conversation or an impromptu Q&A.
+
+**Computer goes to sleep mid-presentation:**
+Set your laptop's sleep and hibernate settings to "never" before the event starts. This is easy to forget and awkward to recover from on stage. Add it to your day-of checklist.
 
 **General principle:** Acknowledge it lightly, don't apologize profusely, keep moving. The audience is forgiving if you stay calm.
 
