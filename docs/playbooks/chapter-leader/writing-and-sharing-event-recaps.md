@@ -1,0 +1,193 @@
+---
+sidebar_position: 7
+title: Writing & Sharing Event Recaps
+---
+
+# Writing & Sharing Event Recaps
+
+The event is a moment. The recap is what turns that moment into momentum.
+
+If you don't recap and share, the energy dies in the room. The people who couldn't make it never hear about it. The people who came forget. The speakers don't amplify it. And the next event starts from zero.
+
+The goal of a recap: make people who weren't there wish they were, make people who were there proud to share it, and drive signups for the next event.
+
+---
+
+## This Is Not the Informational Recap
+
+There are two types of event recaps in the Applied AI Society system:
+
+1. **Informational recap** (in [Event Recaps](/docs/playbooks/chapter-leader/event-recaps)): Chapter-leader-facing. What worked, what didn't, costs, metrics. Internal learning document.
+2. **Newsletter recap** (this playbook): Public-facing. Narrative, promotional, designed for Substack email and social media. Builds excitement and drives action.
+
+This playbook covers the newsletter recap.
+
+---
+
+## Core Principles
+
+### The recording is the centerpiece
+
+Every recap must include the event recording (YouTube link or embed). The entire article is designed to get people to watch it. Everything else supports that goal.
+
+### Highlights prime people to watch
+
+Include 3-5 standout quotes or moments from the event. These act as trailers. People read a quote that resonates and think: "I need to watch this."
+
+### Photos humanize the brand
+
+Include two photo montages (4 photos each, wide format). Real people, real energy, real community. This is what separates Applied AI Society from every other AI group that only posts abstract graphics.
+
+### Always promote what's next
+
+Every recap should push readers toward the next event, the next meetup, the next opportunity to get involved. Momentum compounds.
+
+### Grow the list
+
+Every recap should include a newsletter signup pitch and a referral CTA. The goal is not just engagement on this one email but growing the community for every future email.
+
+---
+
+## The Recap Article
+
+### Template
+
+Use this structure for every event recap:
+
+**1. Opening (2-3 sentences)**
+
+Genuine excitement about what just happened. How many people came. What made this one special. Set the tone.
+
+**2. Hero photo**
+
+The crowd shot or most impactful moment. Full-width. This is the first thing people see.
+
+**3. Recording link**
+
+Embed the YouTube video or link to it with a clear call-to-action: "Watch the full event."
+
+**4. Highlights (3-5 quotes)**
+
+Each highlight should include:
+- The quote itself (in blockquote format)
+- Who said it (name and context)
+- 1-2 sentences of why it matters
+
+Pick quotes that are diverse: different speakers, different topics, different emotional registers. A mix of practical insight and inspiring vision works best.
+
+**5. Photo montage #1**
+
+4 photos in a wide-format strip. See [Photo Montage with Remotion](#photo-montage-with-remotion) below.
+
+**6. What's Next**
+
+Upcoming events with dates, brief descriptions, and registration links. Be specific. Don't say "more events coming soon." Say "Applied AI Live #2 at Capital Factory on February 24th."
+
+**7. Photo montage #2**
+
+Second set of 4 photos. Different moments from the event.
+
+**8. Newsletter pitch**
+
+Sell the value of staying subscribed: practitioner profiles, case studies, community updates, event invites. Make it clear what they get by being on this list.
+
+**9. Referral CTA**
+
+"Know a business owner who could use AI help? Know someone who wants to get into applied AI engineering and make good money doing it? Forward this email to them."
+
+**10. Footer**
+
+Links to website, socials, Substack.
+
+---
+
+## How to Find Highlights
+
+You need 3-5 standout moments. Here's where to find them:
+
+1. **Transcribe the recording.** Use AI transcription (Whisper, Deepgram, or similar). Then ask AI to pull the top 10 quotes from the transcript. Pick the best 3-5.
+
+2. **Search social media.** Look for posts on X and LinkedIn that mention the event, the speakers, or the organization. Attendees often call out specific quotes or ideas that resonated with them. These are gold because they're already validated by the audience.
+
+3. **Check Q&A submissions.** If you used the custom Q&A platform, review the questions that were submitted. The questions themselves reveal what the audience cared about, and the answers to those questions are often highlight-worthy.
+
+4. **Diversity matters.** Don't pull all 5 quotes from one speaker. Spread them across speakers and topics. This gives readers a reason to watch the full recording, not just one segment.
+
+---
+
+## Photo Montage with Remotion
+
+Use the `PhotoMontage` Still composition in the [Remotion repo](/docs/playbooks/chapter-leader/tools) to create wide-format photo strips.
+
+**Specs:**
+- Dimensions: 1920x540 (wide, fits email and Substack layouts)
+- Layout: 4 photos in a horizontal strip
+- Brand styling: cream background, gaps between photos, rounded corners, small Applied AI Society watermark
+
+**Rendering:**
+```bash
+cd applied-ai-society-remotion
+npx remotion still PhotoMontage --props='{"images":["photo1.jpg","photo2.jpg","photo3.jpg","photo4.jpg"]}' --output=montage.png
+```
+
+Save the rendered montages to `applied-ai-society-public-docs/static/img/events/live-N/` alongside the individual event photos.
+
+**Photo selection tips:**
+- Montage #1: Crowd energy, speaker on stage, networking, food/venue setup
+- Montage #2: Close-ups, candid conversations, audience reactions, behind-the-scenes
+
+---
+
+## Sharing & Amplification
+
+The recap article is only half the job. Distribution is the other half.
+
+### Substack first
+
+Publish the full recap as the newsletter email. This goes to all attendees and existing subscribers. Substack is the source of truth.
+
+### X (Twitter)
+
+Post a thread or X Article version. Lead with the hero photo and one powerful quote. Tag speakers, sponsors, and the venue. Pin the post to your profile until the next event.
+
+### LinkedIn
+
+Post the full article or a condensed version. Tag speakers and partners by name. LinkedIn's algorithm rewards long-form content and engagement, so this format performs well.
+
+### Partner amplification
+
+Send the recap to co-hosts, sponsors, and speakers. Ask them to share or retweet. They have audience reach you don't. Make it easy for them:
+
+- Give them a suggested tweet or quote-RT text
+- Send a direct link they can share
+- Partners want to amplify events they were part of. You just have to ask.
+
+### Speakers
+
+Tag speakers in every social post. Send them the article and the specific quotes attributed to them. People share content that features them. Make it effortless.
+
+### Attendees
+
+Make the recap worth sharing. Include photos of real people. Include quotes that attendees relate to. Build the feeling that this is a community they want to be part of and tell others about.
+
+---
+
+## Full Checklist
+
+- [ ] Write the recap draft (article body following the template above)
+- [ ] Create 2 photo montages with Remotion
+- [ ] Ensure the recording is uploaded to YouTube
+- [ ] Publish on Substack (email to full list)
+- [ ] Post on X (thread or X Article), tag speakers/partners/venue
+- [ ] Post on LinkedIn, tag speakers/partners
+- [ ] Send recap link to co-hosts and sponsors, ask them to share
+- [ ] Send recap + attributed quotes to each speaker, ask them to share
+- [ ] DM key attendees the recap link with a personal note
+
+---
+
+## See Also
+
+- [Content Distribution](/docs/playbooks/chapter-leader/content-distribution) — Platform strategy for all content types
+- [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) — Capturing video for the recording
+- [Event Recaps](/docs/playbooks/chapter-leader/event-recaps) — Informational recaps (different from this)
