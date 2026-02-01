@@ -41,6 +41,21 @@ The site uses the Applied AI Society brand colors:
 - **Olive Green (accent)**: `#5B6E4D`
 - **Dark Text**: `#1A1A1A`
 
+## Adding New Documentation
+
+When you create a new `.md` or `.mdx` file in the `docs/` folder, it **won't automatically appear** in the sidebar. You must manually add it to `sidebars.ts`:
+
+1. Create your doc file in the appropriate folder (e.g., `docs/playbooks/chapter-leader/my-new-doc.md`)
+2. Open `sidebars.ts`
+3. Add the doc path to the relevant `items` array:
+   ```typescript
+   items: [
+     'playbooks/chapter-leader/existing-doc',
+     'playbooks/chapter-leader/my-new-doc',  // Add your new doc here
+   ],
+   ```
+4. Restart the dev server if needed
+
 ## Building for Production
 
 ```bash

@@ -47,6 +47,8 @@ This playbook is a work in progress. Component guides:
 | [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) | Sourcing affordable, reliable event photography |
 | [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) | Capturing video on a budget |
 | [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews) | Interviewing practitioners to create profiles |
+| [Generating Flyers](/docs/playbooks/chapter-leader/generating-flyers) | Brand-consistent event flyers via Remotion |
+| [Writing Event Descriptions](/docs/playbooks/chapter-leader/writing-event-descriptions) | Crafting event listing copy for Luma, Meetup, etc. |
 
 ### Coming Soon
 
@@ -70,10 +72,12 @@ A high-level view of everything that goes into running an Applied AI Live event.
 - [ ] Find business owner for live architecture session — [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session)
 - [ ] Confirm Applied AI Engineer to architect the solution
 - [ ] Create event page (Meetup and/or Luma) — [Tools](/docs/playbooks/chapter-leader/tools)
+- [ ] Write event description — [Writing Event Descriptions](/docs/playbooks/chapter-leader/writing-event-descriptions)
 
 ### 3 Weeks Before
 
 - [ ] Start promoting the event (social, community channels, word of mouth)
+- [ ] Generate event flyer — [Generating Flyers](/docs/playbooks/chapter-leader/generating-flyers)
 - [ ] Confirm photographer — [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer)
 - [ ] Figure out recording setup — [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event)
 - [ ] Order name tags (color-coded or custom printed)
