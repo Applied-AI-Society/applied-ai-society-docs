@@ -81,7 +81,7 @@ Pick quotes that are diverse: different speakers, different topics, different em
 
 **6. What's Next**
 
-Upcoming events with dates, brief descriptions, and registration links. Be specific. Don't say "more events coming soon." Say "Applied AI Live #2 at Capital Factory on February 24th."
+Upcoming events with dates, brief descriptions, and registration links. Be specific. Don't say "more events coming soon." Say "Applied AI Live #2 at Antler VC HQ on February 26th."
 
 **7. Photo montage #2**
 
