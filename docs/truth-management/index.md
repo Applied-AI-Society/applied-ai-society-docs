@@ -7,7 +7,9 @@ title: Truth Management
 
 **Truth management** is the discipline of systematically documenting and organizing the conceptual frameworks that guide decision-making for individuals and organizations. It's about creating shared vocabularies, explicit principles, and coherent worldviews that enable aligned action by both humans and AI agents.
 
-> **Note on terminology**: "Truth" here encompasses both your operational assumptions (working beliefs that guide action) and discovered realities (what you've learned actually works in practice). It's the full set of premises that an individual or organization uses to navigate the world effectively.
+:::note[A note on terminology]
+"Truth" here encompasses both your operational assumptions (working beliefs that guide action) and discovered realities (what you've learned actually works in practice). It's the full set of premises that an individual or organization uses to navigate the world effectively.
+:::
 
 ## Why This Matters
 
