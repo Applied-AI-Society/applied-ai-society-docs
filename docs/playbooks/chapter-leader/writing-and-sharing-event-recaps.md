@@ -42,6 +42,10 @@ Include two photo montages (4 photos each, wide format). Real people, real energ
 
 Every recap should push readers toward the next event, the next meetup, the next opportunity to get involved. Momentum compounds.
 
+### Hyperlink every sponsor and partner
+
+Every mention of a sponsoring or partnering organization in the recap must be a hyperlink to their website. This is non-negotiable. Sponsors and partners gave you venue space, money, or co-promotion. The least you can do is drive traffic back to them. It also makes it easy for readers to learn about the organizations involved, and it makes partners more likely to share the recap since it links to them.
+
 ### Grow the list
 
 Every recap should include a newsletter signup pitch and a referral CTA. The goal is not just engagement on this one email but growing the community for every future email.
@@ -95,7 +99,11 @@ Sell the value of staying subscribed: practitioner profiles, case studies, commu
 
 "Know a business owner who could use AI help? Know someone who wants to get into applied AI engineering and make good money doing it? Forward this email to them."
 
-**10. Footer**
+**10. Thank You**
+
+Thank sponsors, partners, venue, co-hosts, and speakers by name. **Every organization must be hyperlinked to their website.** This drives traffic to partners and makes them more likely to share the recap.
+
+**11. Footer**
 
 Links to website, socials, Substack.
 
@@ -146,13 +154,15 @@ The recap article is only half the job. Distribution is the other half.
 
 Publish the full recap as the newsletter email. This goes to all attendees and existing subscribers. Substack is the source of truth.
 
-### X (Twitter)
+### X
 
-Post a thread or X Article version. Lead with the hero photo and one powerful quote. Tag speakers, sponsors, and the venue. Pin the post to your profile until the next event.
+**No threads.** Threads are dead on X. Post a single post with a photo montage attached. Short, punchy caption (3-5 sentences) that hypes the event and teases the video. The goal is to make people curious enough to click through to the full recap.
+
+Put the Substack link in the first reply, along with the registration link for the next event. Tag speakers, sponsors, venue, and co-hosts. Pin the post to your profile until the next event.
 
 ### LinkedIn
 
-Post the full article or a condensed version. Tag speakers and partners by name. LinkedIn's algorithm rewards long-form content and engagement, so this format performs well.
+Same content as X. Short hype post (not the full article), photo montage attached, Substack link included directly in the post body. Tag speakers and partners by name. Don't duplicate the full recap here; drive people to Substack.
 
 ### Partner amplification
 
@@ -175,10 +185,11 @@ Make the recap worth sharing. Include photos of real people. Include quotes that
 ## Full Checklist
 
 - [ ] Write the recap draft (article body following the template above)
+- [ ] Verify every sponsor/partner mention is hyperlinked to their website
 - [ ] Create 2 photo montages with Remotion
 - [ ] Ensure the recording is uploaded to YouTube
 - [ ] Publish on Substack (email to full list)
-- [ ] Post on X (thread or X Article), tag speakers/partners/venue
+- [ ] Post on X (single photo post with montage), reply with Substack link
 - [ ] Post on LinkedIn, tag speakers/partners
 - [ ] Send recap link to co-hosts and sponsors, ask them to share
 - [ ] Send recap + attributed quotes to each speaker, ask them to share
