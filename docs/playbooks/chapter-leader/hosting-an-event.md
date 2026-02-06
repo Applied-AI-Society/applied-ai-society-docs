@@ -112,7 +112,40 @@ For those who don't know me, I'm [Your Name]. I'm [your role — e.g., "one of t
 Thanks for being here tonight. We've got a great lineup.
 ```
 
-### 2. Give Flowers — Venue + Sponsors (1-2 minutes)
+### 2. Ice Breaker (optional, 15 seconds)
+
+A quick, timely dad joke right after your welcome can loosen the room instantly. Pick something relevant to the audience, the topic, or current events in the AI community. The goal is one laugh that signals "this is going to be fun, not a lecture."
+
+**Guidelines:**
+
+- **Keep it to 1-2 jokes.** Don't do a set. Get your laughs and move on.
+- **Timely and audience-appropriate.** Reference something the room will get. Inside jokes about the community, tools people are using, or recent AI news all work well.
+- **Self-aware delivery.** Lean into the dad-joke energy. A slight pause before the punchline, maybe a knowing smile. If it bombs, "...anyway" with a grin is a perfect recovery.
+- **Rotate material.** Don't reuse jokes across events. People come back.
+
+**Example (if Clawd/OpenClaw is a known thing in your community):**
+
+```
+Before we dive in — quick question. What's a lobster's favorite programming language?
+
+...Claw-jure.
+
+Okay, now that I've gotten that out of my system, let's get started.
+```
+
+**Example (general AI audience):**
+
+```
+Quick one before we start. I asked ChatGPT to write me a joke about applied AI.
+
+It gave me a 47-step implementation plan.
+
+...which is why we do events like this instead.
+```
+
+The point isn't to be a comedian. It's to break the "polite audience silence" so people feel comfortable laughing, reacting, and engaging for the rest of the night.
+
+### 3. Give Flowers — Venue + Sponsors (1-2 minutes)
 
 ```
 Before we start, some quick thank-yous.
@@ -126,7 +159,7 @@ Tonight's food is brought to you by [Sponsor]. They're [one sentence about what 
 [If sponsor wants to speak: "Actually, [Name], want to say a quick hello?"]
 ```
 
-### 3. Frame the Event (1 minute)
+### 4. Frame the Event (1 minute)
 
 Explain what's happening and why it matters. Make people excited about the format.
 
@@ -140,7 +173,7 @@ Then we're doing something a little different. We have [Business Owner Name] her
 This isn't a polished demo. It's real problem-solving in real time. That's the point.
 ```
 
-### 4. Housekeeping (30 seconds)
+### 5. Housekeeping (30 seconds)
 
 ```
 Quick housekeeping:
@@ -152,7 +185,7 @@ Quick housekeeping:
 Alright, let's get started.
 ```
 
-### 5. Hype the Room (optional, 30 seconds)
+### 6. Hype the Room (optional, 30 seconds)
 
 If you want to build energy before the first speaker:
 
