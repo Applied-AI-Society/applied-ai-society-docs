@@ -28,14 +28,21 @@ const sidebars: SidebarsConfig = {
           },
           items: [
             'playbooks/chapter-leader/applied-ai-live',
+            'playbooks/chapter-leader/running-a-hackathon',
             'playbooks/chapter-leader/finding-a-photographer',
             'playbooks/chapter-leader/finding-a-venue',
+            'playbooks/chapter-leader/generating-flyers',
             'playbooks/chapter-leader/recording-an-event',
             'playbooks/chapter-leader/case-study-interviews',
             'playbooks/chapter-leader/content-distribution',
             'playbooks/chapter-leader/building-partnerships',
             'playbooks/chapter-leader/hosting-an-event',
             'playbooks/chapter-leader/live-architecture-session',
+            'playbooks/chapter-leader/writing-event-descriptions',
+            'playbooks/chapter-leader/writing-and-sharing-event-recaps',
+            'playbooks/chapter-leader/crm-setup',
+            'playbooks/chapter-leader/linkedin-automation',
+            'playbooks/chapter-leader/twitter-automation',
             'playbooks/chapter-leader/getting-things-done',
             'playbooks/chapter-leader/tools',
             {
@@ -65,6 +72,46 @@ const sidebars: SidebarsConfig = {
         id: 'principles/index',
       },
       items: [],
+    },
+    {
+      type: 'category',
+      label: 'Truth Management',
+      link: {
+        type: 'doc',
+        id: 'truth-management/index',
+      },
+      items: [
+        'truth-management/why-it-matters',
+        {
+          type: 'category',
+          label: 'Principles',
+          items: [
+            'truth-management/align-before-committing',
+            'truth-management/dont-assume-common-sense',
+            'truth-management/empower-your-truth-manager',
+            'truth-management/make-every-file-count',
+            'truth-management/make-your-company-refactorable',
+            'truth-management/protect-your-truth',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Processes',
+          items: [
+            'truth-management/start-your-company-bible',
+            'truth-management/migrate-to-refactorable-systems',
+            'truth-management/truth-as-context',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Tools',
+          items: [
+            'truth-management/source-controller',
+            'truth-management/voice-transcriber',
+          ],
+        },
+      ],
     },
     {
       type: 'category',
