@@ -4,6 +4,18 @@ const sidebars: SidebarsConfig = {
   docsSidebar: [
     {
       type: 'category',
+      label: 'Philosophy',
+      link: {
+        type: 'doc',
+        id: 'philosophy/index',
+      },
+      items: [
+        'philosophy/canon',
+        'philosophy/principles',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Case Studies',
       link: {
         type: 'doc',
@@ -63,15 +75,6 @@ const sidebars: SidebarsConfig = {
           items: [],
         },
       ],
-    },
-    {
-      type: 'category',
-      label: 'Principles',
-      link: {
-        type: 'doc',
-        id: 'principles/index',
-      },
-      items: [],
     },
     {
       type: 'category',
