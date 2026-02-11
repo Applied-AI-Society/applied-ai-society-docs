@@ -42,6 +42,7 @@ This playbook is a work in progress. Component guides:
 
 | Playbook | Description |
 |----------|-------------|
+| [Presenting at Applied AI Live](/docs/playbooks/presenter/presenting-at-applied-ai-live) | Guest presenter guide: case study talks and topic discussions |
 | [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session) | Finding the right business owner and prepping the engineer |
 | [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue) | Securing a recurring partner space |
 | [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) | Sourcing affordable, reliable event photography |
@@ -54,7 +55,6 @@ This playbook is a work in progress. Component guides:
 
 | Playbook | Description |
 |----------|-------------|
-| Speaker Outreach | Recruiting practitioners to share case studies |
 | Event Promotion | Getting the word out effectively |
 | Day-of Logistics | Running a smooth event |
 | Post-Event Follow-up | Maximizing value after the event ends |
