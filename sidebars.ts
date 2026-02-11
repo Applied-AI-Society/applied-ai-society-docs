@@ -67,6 +67,17 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
+          label: 'Presenter',
+          link: {
+            type: 'doc',
+            id: 'playbooks/presenter/index',
+          },
+          items: [
+            'playbooks/presenter/presenting-at-applied-ai-live',
+          ],
+        },
+        {
+          type: 'category',
           label: 'Practitioner',
           link: {
             type: 'doc',
