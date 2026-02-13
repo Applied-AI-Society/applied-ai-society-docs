@@ -5,30 +5,31 @@ title: Applied AI Live
 
 # Applied AI Live
 
-A workshop series for people who want to make money by practically applying AI to real-world business problems.
+A workshop series where AI-native young people and experienced practitioners learn together by solving real business problems.
 
 ---
 
 ## What Is It?
 
-Applied AI Live is a recurring event format. The goal: create a Schelling point for practitioners who are actually making a living helping businesses integrate AI.
+Applied AI Live is a recurring event format. The goal: create a Schelling point where young people comfortable with AI can learn from experienced practitioners, tackle real problems, and start building their professional network.
 
 Each event features:
 - **Practitioner talks** — Real case studies from people doing the work
-- **Live problem-solving** — A real business owner presents an actual problem, and an engineer architects a solution on the spot
+- **Live problem-solving** — A real business owner presents an actual problem, and a practitioner architects a solution on the spot
 - **Networking** — Time for attendees to connect and share notes
 
-This isn't a lecture series. It's a working session for people in the trenches.
+This isn't a lecture series. It's a working session for anyone ready to apply AI professionally.
 
 ---
 
 ## Who Should Attend?
 
-Three types of people:
+Four types of people:
 
 | Type | Description |
 |------|-------------|
-| **Applied AI Engineers** | Engineers and developers building a career (or side income) helping businesses implement AI. Includes new grads trying to stand out. |
+| **AI-Native Young People** | People in their early 20s who use AI tools daily and want to apply that fluency professionally. Students, recent grads, career changers. You don't need to be a traditional coder. |
+| **Experienced Practitioners** | Engineers and practitioners who are already doing the work. Your experience is invaluable to the young people in the room, and you'll learn from their fresh perspective too. |
 | **Business Owners** | People with real business problems who want to understand what's possible and find trustworthy help. |
 | **Tool Builders** | Technical leaders building platforms, frameworks, or infrastructure for applied AI. Looking for practitioner feedback. |
 
@@ -228,23 +229,24 @@ Add "Charge portable speaker" and "Queue up music playlist" to your Day Of check
 
 One small thing that makes a big difference: **color-coded name tags**.
 
-The goal is to help attendees find each other. An Applied AI Engineer looking for business owners to help should be able to spot them across the room. A Tool Builder looking for practitioner feedback should know who to approach.
+The goal is to help attendees find each other. A young AI native looking for experienced practitioners to learn from should be able to spot them across the room. A business owner looking for talent should know who to approach.
 
 ### The Ideal
 
 Printed name tags with:
-- **Role at the top**: "Applied AI Engineer," "Business Owner," or "Tool Builder"
+- **Role at the top**: "AI Native," "Practitioner," "Business Owner," or "Tool Builder"
 - **Event name at the bottom**: "Applied AI Live"
 
 This way people know who they're talking to and remember what event they met at.
 
 ### The Easy, Cheap Version
 
-Three different colors of blank name tags. Assign one color per role. Announce the color coding at the start of the event.
+Four different colors of blank name tags. Assign one color per role. Announce the color coding at the start of the event.
 
 | Color | Role |
 |-------|------|
-| 🟠 Orange | Applied AI Engineer |
+| 🟡 Yellow | AI Native |
+| 🟠 Orange | Experienced Practitioner |
 | 🔵 Blue | Business Owner |
 | 🟢 Green | Tool Builder |
 
@@ -258,7 +260,7 @@ Blank adhesive name tags come in multi-color packs. Check Amazon or any office s
 
 For custom name tags or sticker sheets, local print shops offer fast turnaround (often 2 days). Expect ~$90 for 72 custom stickers. Services like Sticker Mule work well for bulk orders. **Minuteman Press** is another reliable vendor for custom printing with locations nationwide.
 
-At Applied AI Live #1, attendees called the custom name tags out as a highlight. They made the purpose of the event immediately legible — people could tell at a glance who was an engineer, who was a business owner, and who was building tools. Don't underestimate this detail.
+At Applied AI Live #1, attendees called the custom name tags out as a highlight. They made the purpose of the event immediately legible. Don't underestimate this detail.
 
 ![Custom printed name tags from Applied AI Live #1](/img/events/live-1/nametags.jpg)
 
@@ -375,4 +377,32 @@ Hosted at Antler VC with AITX community. Featured Travis Oliphant (creator of Nu
 
 ## Start a Chapter
 
-Want to run Applied AI Live in your city? We're building out resources to help you do that. Stay tuned, or [reach out on GitHub](https://github.com/applied-ai-society) if you want to get started now.
+Want to run Applied AI Live in your city? Here's how chapters work.
+
+### The Model
+
+Chapters are **hyperlocal**. Each one is rooted in a specific city or university, led by a dynamic young person (typically early 20s) who sees the opportunity and wants to lead the movement locally. Chapters raise their own money and spend it locally. Think subsidiarity: local communities funded by local people.
+
+### Chapter Leaders
+
+We're deliberate about who leads chapters. The ideal chapter leader is someone in their early 20s who:
+- Is an AI native: uses AI tools daily and sees the professional opportunity clearly
+- Is young, hungry, and eager to build something in their city
+- Has genuine curiosity and excitement about helping others learn applied AI
+- Brings energy and initiative (we provide the playbooks, training, and support)
+
+Connection and polish matter less than energy and curiosity. We help chapter leaders develop the rest.
+
+### Funding: Legacy Sponsors
+
+Chapter funding comes from **legacy sponsors**: successful local business owners who want to invest in the young people bringing AI to their city. They become the foundational sponsor of a chapter. In return, they get a direct hiring relationship with the most talented young AI practitioners, community goodwill, and a front-row seat to the future.
+
+This isn't corporate sponsorship at scale. It's personal. One person saying: "I planted this chapter." 20% of sponsors will do 80% of the funding. That's how community funding works.
+
+### First Events
+
+Start with a hackathon or build-a-thon. Teach people to use real tools (Claude Code, Cursor, etc.) and build something fun. Competitions with small prizes work well. The first non-Austin chapter is launching in Bordeaux, France, with a university hackathon.
+
+### Get Started
+
+[Reach out on GitHub](https://github.com/applied-ai-society) or visit [appliedaisociety.org/contribute](https://appliedaisociety.org/contribute) to express interest.
