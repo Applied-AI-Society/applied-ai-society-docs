@@ -84,7 +84,9 @@ const sidebars: SidebarsConfig = {
             type: 'doc',
             id: 'playbooks/practitioner/index',
           },
-          items: [],
+          items: [
+            'playbooks/practitioner/icp-clarity',
+          ],
         },
       ],
     },
