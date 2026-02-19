@@ -86,6 +86,7 @@ const sidebars: SidebarsConfig = {
           },
           items: [
             'playbooks/practitioner/icp-clarity',
+            'playbooks/practitioner/experimental-improvement',
           ],
         },
         {
@@ -97,6 +98,7 @@ const sidebars: SidebarsConfig = {
           },
           items: [
             'playbooks/business-owner/opportunity-brief',
+            'playbooks/business-owner/beyond-automation',
           ],
         },
       ],
