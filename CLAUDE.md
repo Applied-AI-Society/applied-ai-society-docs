@@ -1,0 +1,69 @@
+# Applied AI Society Public Docs — Agent Instructions
+
+## What This Repo Is
+
+Docusaurus 3 site serving the public documentation for the Applied AI Society.
+
+**Live site:** https://docs.appliedaisociety.org
+**Base URL:** `/` (all doc paths start with `/docs/`)
+**Full URL pattern:** `https://docs.appliedaisociety.org/docs/<path>`
+
+Example: `docs/playbooks/business-owner/opportunity-brief.md` → `https://docs.appliedaisociety.org/docs/playbooks/business-owner/opportunity-brief`
+
+## Critical: Sidebar Registration
+
+**New docs do NOT auto-appear in the sidebar.** Every new `.md` or `.mdx` file must be manually added to `sidebars.ts` or it will be unreachable from navigation.
+
+After creating any new doc, always update `sidebars.ts`:
+- Add single docs as a string: `'playbooks/business-owner/opportunity-brief'`
+- Add new sections as a category object with `label`, `link`, and `items`
+
+A prebuild check (`scripts/check-sidebar.sh`) will warn about missing docs during `npm run build`.
+
+## Docs Structure
+
+```
+docs/
+├── philosophy/           # Canon (8 tenets), principles (5 operating rules)
+├── case-studies/         # Real-world AI implementation case studies
+├── playbooks/
+│   ├── chapter-leader/   # Running events, partnerships, tools, content, CRM
+│   │   └── event-recaps/
+│   ├── presenter/        # Guest speaker prep
+│   ├── practitioner/     # Guides for applied AI engineers doing client work
+│   └── business-owner/   # Resources for operators looking to implement AI
+├── truth-management/     # Framework: principles, processes, tools
+├── brand/                # Visual identity, colors, fonts, AI generation guide
+└── code-of-conduct.md
+```
+
+## Frontmatter
+
+Every doc should have at minimum:
+
+```md
+---
+sidebar_position: 1
+title: "Page Title"
+---
+```
+
+## Brand Rules
+
+- **Colors:** Orange `#E67B35`, Gold `#FFC14D`, Cream `#FAF7F1`, Olive `#5B6E4D`, Dark `#1A1A1A`
+- **Tone:** Warm, human, practical. Not corporate, not hype.
+- **No em dashes.** Use colons, parentheses, or separate sentences instead.
+
+Full brand guide: `docs/brand/index.mdx`
+
+## Asset CDN
+
+Other repos reference brand assets via `https://docs.appliedaisociety.org/img/` URLs. Do not rename or move files in `static/img/` without checking cross-repo references.
+
+## Local Dev
+
+```bash
+npm install
+npm start       # Dev server at http://localhost:3000
+npm run build   # Production build (runs prebuild checks)
+```
