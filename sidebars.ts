@@ -88,6 +88,17 @@ const sidebars: SidebarsConfig = {
             'playbooks/practitioner/icp-clarity',
           ],
         },
+        {
+          type: 'category',
+          label: 'Business Owner',
+          link: {
+            type: 'doc',
+            id: 'playbooks/business-owner/index',
+          },
+          items: [
+            'playbooks/business-owner/opportunity-brief',
+          ],
+        },
       ],
     },
     {
