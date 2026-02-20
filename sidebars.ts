@@ -97,7 +97,8 @@ const sidebars: SidebarsConfig = {
             id: 'playbooks/business-owner/index',
           },
           items: [
-            'playbooks/business-owner/readiness-assessment',
+            'playbooks/business-owner/quick-check',
+            'playbooks/business-owner/situation-map',
             'playbooks/business-owner/opportunity-brief',
             'playbooks/business-owner/beyond-automation',
           ],
