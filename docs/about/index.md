@@ -41,7 +41,7 @@ That's the [Applied AI Canon](/docs/philosophy/canon). Efficiency is not the goa
 
 **Applied AI Live.** Our flagship event format. Practitioners present real implementations, live. Real people showing real systems they built for real organizations. Live discussions between fellow practitioners on what's emerging.
 
-**Open Documentation.** Everything we learn gets documented and shared publicly. Playbooks for running chapters, hosting events, doing case study interviews. If we figure something out, we write it down so the next chapter doesn't have to start from scratch.
+**Open Documentation.** Everything we learn gets documented and shared publicly. Playbooks for running chapters and hosting events. Standards for emerging agent file conventions. Case studies from real implementations. If we figure something out, we write it down so the next person doesn't have to start from scratch.
 
 **Sponsors, not gatekeepers.** Local businesses and AI companies sponsor chapters because they want access to AI-native talent. Sponsors fund the community. They don't control it.
 
@@ -70,4 +70,4 @@ Bringing a chapter to your campus or organization means your people get access t
 - **Attend an event:** [See upcoming events →](https://appliedaisociety.org/events)
 - **Start a chapter:** [Learn how →](/docs/playbooks/chapter-leader)
 - **Present at Applied AI Live:** [Presenter playbook →](/docs/playbooks/presenter)
-- **Read the docs:** [Browse playbooks, case studies, and philosophy →](/docs/philosophy)
+- **Read the docs:** [Browse playbooks, standards, case studies, and philosophy →](/docs/philosophy)

@@ -147,6 +147,22 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: 'Standards',
+      link: { type: 'doc', id: 'standards/index' },
+      items: [
+        {
+          type: 'category',
+          label: 'INTEGRATE.md',
+          link: { type: 'doc', id: 'standards/integrate-md/index' },
+          items: [
+            'standards/integrate-md/writing-guide',
+            'standards/integrate-md/example',
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
       label: 'Brand',
       link: {
         type: 'doc',
