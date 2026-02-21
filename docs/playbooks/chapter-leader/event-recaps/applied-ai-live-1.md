@@ -1,15 +1,15 @@
 ---
-title: "Applied AI Live #1 — Austin"
+title: "Applied AI Live #1: Austin"
 ---
 
-# Applied AI Live #1 — Austin
+# Applied AI Live #1: Austin
 
 **Date:** January 29, 2026
 **Venue:** Antler VC, Austin, TX
 **Attendance:** ~100 checked in (40% show rate)
 **Format:** Guest speaker + live architecture session + audience Q&A
 
-![Applied AI Live #1 — Full crowd at Antler VC, Austin](/img/events/live-1/shot-02-crowd-wide.jpg)
+![Applied AI Live #1: Full crowd at Antler VC, Austin](/img/events/live-1/shot-02-crowd-wide.jpg)
 
 ---
 
@@ -19,13 +19,13 @@ Applied AI Live #1 was the inaugural event for the Applied AI Society. Hosted at
 
 ### The Format
 
-1. **Networking + Food** — Doors opened at 5:30 PM with Firehouse Subs and open conversation. Having food ready for early arrivals set the social tone before content started.
+1. **Networking + Food.** Doors opened at 5:30 PM with Firehouse Subs and open conversation. Having food ready for early arrivals set the social tone before content started.
 ![Firehouse Subs platters for early arrivals](/img/events/live-1/firehouse-subs.png)
-2. **Guest Speaker** — Travis Oliphant (creator of NumPy/SciPy, founder of OpenTeams) shared practitioner insights on applying AI for businesses.
-3. **Live Architecture Session** — A real business owner presented a real problem, and an engineer architected a solution on the spot. The audience watched real problem-solving happen in real time.
+2. **Guest Speaker.** Travis Oliphant (creator of NumPy/SciPy, founder of OpenTeams) shared practitioner insights on applying AI for businesses.
+3. **Live Architecture Session.** A real business owner presented a real problem, and an engineer architected a solution on the spot. The audience watched real problem-solving happen in real time.
 ![Live architecture diagram presented on screen at Antler](/img/events/live-1/shot-04-architecture-diagram.jpg)
-4. **Audience Q&A** — Powered by a custom platform with QR codes on every slide. Over a dozen questions submitted. AI moderation filtered submissions in real time.
-5. **Open Networking** — The event closed with unstructured time for attendees to connect and exchange notes.
+4. **Audience Q&A.** Powered by a custom platform with QR codes on every slide. Over a dozen questions submitted. AI moderation filtered submissions in real time.
+5. **Open Networking.** The event closed with unstructured time for attendees to connect and exchange notes.
 
 ---
 
@@ -34,14 +34,14 @@ Applied AI Live #1 was the inaugural event for the Applied AI Society. Hosted at
 ### Things That Worked
 
 - **Name tags made the event legible.** Color-coded by role (engineer, business owner, tool builder), they helped people find each other. Multiple attendees called them out as a highlight. Printed by Minuteman Press.
-![Custom printed name tags — Applied AI Engineer role, branded with Applied AI Live](/img/events/live-1/nametags.jpg)
+![Custom printed name tags for Applied AI Engineer role, branded with Applied AI Live](/img/events/live-1/nametags.jpg)
 - **Branded staff shirts elevated the feel.** Ten shirts at ~$100. Staff wearing them at registration made the event feel immediately official.
 ![Rostam holding the Applied AI Society branded shirt](/img/events/live-1/rostam-shirt.jpg)
 - **Food for early arrivals set the tone.** Firehouse Subs (~$250, including veggie options) gave people something to do while waiting. The 25-minute window before the opening address became a natural networking period.
-- **The live architecture session held the room.** Real problem-solving in front of an audience — the format works. The concept proposed during the session resonated with multiple attendees in post-event conversations.
+- **The live architecture session held the room.** Real problem-solving in front of an audience. The format works. The concept proposed during the session resonated with multiple attendees in post-event conversations.
 - **QR codes on every slide drove Q&A engagement.** The custom platform worked on its first live outing. AI moderation kept submissions on-topic.
 - **Auto-rotating animated slides** during transitions kept the energy up between segments.
-- **Day-of reminder blast boosted turnout.** A written message went out to RSVPs at 11:29 AM — a future-looking note asking people to imagine where tonight could lead them a year from now. This likely contributed to the 40% show rate.
+- **Day-of reminder blast boosted turnout.** A written message went out to RSVPs at 11:29 AM: a future-looking note asking people to imagine where tonight could lead them a year from now. This likely contributed to the 40% show rate.
 
 ### Things to Improve
 
@@ -84,6 +84,6 @@ Applied AI Live #1 was made possible with the support of the Applied AI Society'
 
 ## See Also
 
-- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) — Full event playbook
-- [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships) — Partnership learnings from this event
-- [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session) — How to run the signature segment
+- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): Full event playbook
+- [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships): Partnership learnings from this event
+- [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session): How to run the signature segment

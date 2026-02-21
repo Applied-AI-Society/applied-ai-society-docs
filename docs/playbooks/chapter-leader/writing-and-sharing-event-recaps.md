@@ -199,6 +199,6 @@ Make the recap worth sharing. Include photos of real people. Include quotes that
 
 ## See Also
 
-- [Content Distribution](/docs/playbooks/chapter-leader/content-distribution) — Platform strategy for all content types
-- [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) — Capturing video for the recording
-- [Event Recaps](/docs/playbooks/chapter-leader/event-recaps) — Informational recaps (different from this)
+- [Content Distribution](/docs/playbooks/chapter-leader/content-distribution): Platform strategy for all content types
+- [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event): Capturing video for the recording
+- [Event Recaps](/docs/playbooks/chapter-leader/event-recaps): Informational recaps (different from this)

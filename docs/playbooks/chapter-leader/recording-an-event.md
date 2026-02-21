@@ -11,10 +11,10 @@ A practical guide for recording Applied AI Society events on a budget.
 
 ## Why Record Events
 
-1. **Reach people who couldn't attend** — Let them get value as if they were there
-2. **Build a content library** — Each event becomes a permanent resource
-3. **Show what the events are like** — Prospective attendees can see what they're signing up for
-4. **Create promotional clips** — Raw footage becomes reels and short-form content
+1. **Reach people who couldn't attend.** Let them get value as if they were there.
+2. **Build a content library.** Each event becomes a permanent resource.
+3. **Show what the events are like.** Prospective attendees can see what they're signing up for.
+4. **Create promotional clips.** Raw footage becomes reels and short-form content.
 
 The full event recording is one output. But the raw footage is also source material for short clips: "We live architected a document processing system in 10 minutes" with cuts between the main camera, Ray-Ban POV, and whiteboard close-ups. These clips drive social engagement and attract new attendees.
 
@@ -30,7 +30,7 @@ With smartphones, consumer gear, and smart workflows, you can produce solid even
 
 ### Consider a Dedicated Camera Person
 
-If your budget allows, hiring a dedicated camera person is worth the spend. At Applied AI Live #1, Brian Cruz handled camera duties at a reasonable cost. The difference between a person with dedicated equipment — even standard-tier gear — and an iPhone propped up on a tripod is significant. A camera person can follow the action, get close-ups of the whiteboard during live architecture sessions, and capture audience reactions in real time.
+If your budget allows, hiring a dedicated camera person is worth the spend. At Applied AI Live #1, Brian Cruz handled camera duties at a reasonable cost. The difference between a person with dedicated equipment (even standard-tier gear) and an iPhone propped up on a tripod is significant. A camera person can follow the action, get close-ups of the whiteboard during live architecture sessions, and capture audience reactions in real time.
 
 You don't need a professional film crew. One reliable person with a decent camera and some event experience is enough. The footage quality jumps noticeably, which matters when you're cutting clips for social and building your content library.
 
@@ -97,9 +97,9 @@ Smart glasses like Meta Ray-Bans add a unique dimension: host POV footage.
 
 Use them for:
 - **Close-ups of the whiteboard** during live architecting
-- **Business owner explaining their problem** — get up close
-- **Audience reactions** — pan the room naturally
-- **B-roll** — arrivals, networking, the vibe of the space
+- **Business owner explaining their problem.** Get up close.
+- **Audience reactions.** Pan the room naturally.
+- **B-roll:** arrivals, networking, the vibe of the space
 
 This footage won't be your primary source, but it adds personality and immersion. It makes viewers feel like they're in the room with you.
 
@@ -135,7 +135,7 @@ Do this **before** attendees arrive:
 - [ ] All devices fully charged
 - [ ] Storage cleared (delete old files, check available space)
 - [ ] Tripod/stand stable and positioned
-- [ ] Test audio levels — record 30 seconds, play it back
+- [ ] Test audio levels (record 30 seconds, play it back)
 - [ ] Backup audio devices ready and tested
 - [ ] Smart glasses synced and charged (if using)
 - [ ] Know how to start/stop recording on all devices
@@ -157,9 +157,9 @@ Examples:
 
 ### Post-event
 
-1. **Upload to cloud immediately** — Don't wait. Phones get lost, drives fail.
-2. **Organize by event date** — One folder per event
-3. **Keep raw files** — Never delete originals until final video is published
+1. **Upload to cloud immediately.** Don't wait. Phones get lost, drives fail.
+2. **Organize by event date.** One folder per event.
+3. **Keep raw files.** Never delete originals until final video is published.
 
 ---
 
@@ -214,8 +214,8 @@ Thanks,
 The finished video should:
 - **Weave together** main stage footage with screen share or whiteboard toggles
 - **Use the cleanest audio source** from your backups
-- **Feel immersive** — B-roll and POV footage help
-- **Be watchable** — Someone who missed the event should get full value
+- **Feel immersive.** B-roll and POV footage help.
+- **Be watchable.** Someone who missed the event should get full value.
 
 ### Short-form clips and reels
 
@@ -228,10 +228,10 @@ Mix sources: main camera for the presenter, Ray-Ban POV for whiteboard close-ups
 
 ### Where to publish
 
-- **YouTube** — Full recordings + short clips
-- **Instagram/TikTok/LinkedIn** — Reels and highlights
-- **Website** — Embed on the event page
-- **Newsletter** — Share with your mailing list
+- **YouTube:** Full recordings + short clips
+- **Instagram/TikTok/LinkedIn:** Reels and highlights
+- **Website:** Embed on the event page
+- **Newsletter:** Share with your mailing list
 
 ---
 
@@ -269,5 +269,5 @@ Mix sources: main camera for the presenter, Ray-Ban POV for whiteboard close-ups
 
 ## See Also
 
-- [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) — Similar approach for finding reliable help
-- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) — Full event playbook
+- [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer): Similar approach for finding reliable help
+- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): Full event playbook

@@ -14,9 +14,9 @@ A workshop series where AI-native young people and experienced practitioners lea
 Applied AI Live is a recurring event format. The goal: create a Schelling point where young people comfortable with AI can learn from experienced practitioners, tackle real problems, and start building their professional network.
 
 Each event features:
-- **Practitioner talks** — Real case studies from people doing the work
-- **Live problem-solving** — A real business owner presents an actual problem, and a practitioner architects a solution on the spot
-- **Networking** — Time for attendees to connect and share notes
+- **Practitioner talks:** Real case studies from people doing the work
+- **Live problem-solving:** A real business owner presents an actual problem, and a practitioner architects a solution on the spot
+- **Networking:** Time for attendees to connect and share notes
 
 This isn't a lecture series. It's a working session for anyone ready to apply AI professionally.
 
@@ -68,26 +68,27 @@ A high-level view of everything that goes into running an Applied AI Live event.
 
 ### 4+ Weeks Before
 
-- [ ] Secure venue (partner space preferred) — [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue)
-- [ ] Confirm practitioner speaker for case study — [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews)
-- [ ] Find business owner for live architecture session — [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session)
+- [ ] Secure venue (partner space preferred). See [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue)
+- [ ] Confirm practitioner speaker for case study. See [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews)
+- [ ] Find business owner for live architecture session. See [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session)
 - [ ] Confirm Applied AI Engineer to architect the solution
-- [ ] Create event page (Meetup and/or Luma) — [Tools](/docs/playbooks/chapter-leader/tools)
-- [ ] Write event description — [Writing Event Descriptions](/docs/playbooks/chapter-leader/writing-event-descriptions)
+- [ ] Create event page (Meetup and/or Luma). See [Tools](/docs/playbooks/chapter-leader/tools)
+- [ ] Write event description. See [Writing Event Descriptions](/docs/playbooks/chapter-leader/writing-event-descriptions)
 
 ### 3 Weeks Before
 
 - [ ] Start promoting the event (social, community channels, word of mouth)
-- [ ] Generate event flyer — [Generating Flyers](/docs/playbooks/chapter-leader/generating-flyers)
-- [ ] Confirm photographer — [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer)
-- [ ] Figure out recording setup — [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event)
+- [ ] Submit event to relevant Luma Featured Calendars (see [Luma Calendar Submissions](#luma-calendar-submissions))
+- [ ] Generate event flyer. See [Generating Flyers](/docs/playbooks/chapter-leader/generating-flyers)
+- [ ] Confirm photographer. See [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer)
+- [ ] Figure out recording setup. See [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event)
 - [ ] Order name tags (color-coded or custom printed)
 - [ ] Order branded staff shirts
 
 ### 2 Weeks Before
 
 - [ ] Conduct pre-call with business owner
-- [ ] Write problem brief from pre-call — [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session)
+- [ ] Write problem brief from pre-call. See [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session)
 - [ ] Send problem brief to engineer
 - [ ] Continue promoting and accepting RSVPs
 - [ ] Schedule food delivery
@@ -117,7 +118,7 @@ A high-level view of everything that goes into running an Applied AI Live event.
 If your event is in the evening, record a quick video that morning. Post it to social and send it to RSVPs. Get people excited. Remind them this isn't a normal meetup. Cover what's happening, why it matters, and what they'll get out of attending. Bonus: film it at or near the venue. Show them where to park, which entrance to use, any logistical details that reduce friction. A personal video converts more RSVPs into actual attendees.
 
 **The day-of reminder blast:**
-In addition to (or instead of) a video, send a written blast to your RSVP list the morning or midday of the event. Paint a picture of what attending means for them. At Applied AI Live #1, a blast went out at 11:29 AM with the subject line *"For many of you, tonight is the night that changes everything"* — a future-looking message that asked RSVPs to imagine looking back a year from now on all the clients, friendships, and partnerships that started that night. It closed with urgency without pressure: "If you can't make it tonight, that's okay, we're going to have more events. But I think you're going to want to be here for the launch." This likely contributed to the 40% show rate (above the typical ~35%). Make it personal, make it vivid, and send it early enough that people can adjust their evening plans.
+In addition to (or instead of) a video, send a written blast to your RSVP list the morning or midday of the event. Paint a picture of what attending means for them. At Applied AI Live #1, a blast went out at 11:29 AM with the subject line *"For many of you, tonight is the night that changes everything"* (a future-looking message that asked RSVPs to imagine looking back a year from now on all the clients, friendships, and partnerships that started that night). It closed with urgency without pressure: "If you can't make it tonight, that's okay, we're going to have more events. But I think you're going to want to be here for the launch." This likely contributed to the 40% show rate (above the typical ~35%). Make it personal, make it vivid, and send it early enough that people can adjust their evening plans.
 
 ### After the Event
 
@@ -145,7 +146,7 @@ Applied AI Live events should be cheap to run. The goal is replicability. Any ch
 | Registration desk | $0 (volunteers) |
 | **Total** | **~$770–820** |
 
-**Budget roughly $1,000 for an Applied AI Live event.** This assumes a free venue through partnerships — which is why partnerships are so important (see [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships)). If you handle your own photos/video and skip shirts, you can run leaner, but the full experience is worth the investment.
+**Budget roughly $1,000 for an Applied AI Live event.** This assumes a free venue through partnerships, which is why partnerships are so important (see [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships)). If you handle your own photos/video and skip shirts, you can run leaner, but the full experience is worth the investment.
 
 ### The Human Cost
 
@@ -170,8 +171,8 @@ A typical 2-hour Applied AI Live event:
 | 5:30 PM | Doors open. Food out. Networking. |
 | 6:00 PM | Welcome + housekeeping (5 min) |
 | 6:05 PM | Sponsor remarks (10–15 min) |
-| 6:20 PM | Practitioner talk — Case study with Q&A (30 min) |
-| 6:50 PM | Live architecture session — Business owner presents problem, engineer architects solution on whiteboard (30 min) |
+| 6:20 PM | Practitioner talk: Case study with Q&A (30 min) |
+| 6:50 PM | Live architecture session: Business owner presents problem, engineer architects solution on whiteboard (30 min) |
 | 7:20 PM | Open networking |
 | 7:30 PM | Wrap |
 
@@ -272,7 +273,7 @@ At Applied AI Live #1, attendees called the custom name tags out as a highlight.
 
 A small investment that punches above its weight. At Live #1, we ordered ~10 branded shirts for ~$100. Minimalistic design: white text, orange gradient on black. Staff wore them at the registration desk.
 
-The effect is instant professionalism. Attendees walk in and immediately see an organized team. It signals that this isn't a casual hangout — it's a real event run by real people. Great ROI for perceived quality.
+The effect is instant professionalism. Attendees walk in and immediately see an organized team. It signals that this isn't a casual hangout; it's a real event run by real people. Great ROI for perceived quality.
 
 Order them 3+ weeks before your event to allow for printing and shipping. Keep the design simple. The brand should be recognizable but not loud.
 
@@ -297,7 +298,7 @@ For a 5:30–7:30pm event, people will be hungry. Options:
 
 Have food ready **25 minutes before doors open**. Early arrivals set the social tone for the whole event. When people walk in to food already laid out, they start networking immediately instead of standing around waiting. Always include veggie options.
 
-![Firehouse Subs platters — the proven option](/img/events/live-1/firehouse-subs.png)
+![Firehouse Subs platters, the proven option](/img/events/live-1/firehouse-subs.png)
 
 ### How Much?
 
@@ -329,6 +330,41 @@ Don't advertise it as a dinner event. Frame it as "light food provided" or first
 4. Point them toward food/networking area
 
 Having an extroverted "connector" person near registration helps. Someone who can introduce newcomers to each other and break the ice.
+
+---
+
+## Luma Calendar Submissions
+
+One of the most effective (and free) ways to get attendees is submitting your event to **Luma Featured Calendars**. These are curated community calendars that surface events to subscribers interested in specific topics or cities.
+
+### Why This Matters
+
+When you create an event on Luma, it lives on your personal page by default. Most people won't find it unless you share the link directly. But Luma also has a [Discover page](https://lu.ma/discover) with **Featured Calendars** (topic-based like "AI" or "Tech") and **Local Events** (city-based like "Austin" or "San Francisco"). Getting your event listed on these calendars puts it in front of thousands of subscribers who are already looking for events like yours.
+
+At Applied AI Live, we've seen real attendees come from Luma calendar discovery. OpenClaw Meetups, for example, appears as a Featured Calendar on Luma's Discover page. The Austin local calendar is another one worth targeting.
+
+### How to Submit
+
+1. Go to [lu.ma/discover](https://lu.ma/discover) and browse the Featured Calendars and Local Events sections
+2. Find calendars relevant to your event (AI, Tech, your city)
+3. Open the calendar page and look for a "Submit Event" option
+4. Fill in your event details and submit
+5. The calendar admin reviews your submission. If approved, your event appears on that calendar's public schedule
+
+### Which Calendars to Target
+
+| Calendar Type | Examples | Why |
+|---------------|----------|-----|
+| **Topic calendars** | AI, Tech, Open Source | Reaches people interested in the subject matter |
+| **City calendars** | Austin, San Francisco, New York | Reaches local attendees who are browsing for things to do |
+| **Community calendars** | OpenClaw Meetups, Cursor Community, etc. | Reaches aligned communities with overlapping interests |
+
+### Tips
+
+- **Submit early.** Do this 3+ weeks before your event. Calendar admins may take a few days to review submissions.
+- **Write a strong event description.** Calendar admins are curating quality. A well-written description with clear value proposition gets approved faster. See [Writing Event Descriptions](/docs/playbooks/chapter-leader/writing-event-descriptions).
+- **Submit to multiple calendars.** Your event can appear on several calendars at once. Cast a wide net.
+- **Subscribe to calendars yourself.** Follow the calendars in your city and topic area. This helps you stay aware of what other organizers are doing and spot collaboration opportunities.
 
 ---
 
@@ -366,7 +402,7 @@ Partnerships compound. The venue that felt thanked is more likely to host you ag
 
 ## Past Events
 
-**Applied AI Live #1 — Austin, TX (January 2026)**
+**Applied AI Live #1, Austin, TX (January 2026)**
 Hosted at Antler VC with AITX community. Featured Travis Oliphant (creator of NumPy/SciPy, founder of OpenTeams) and Rostam Mahabadi (AITX x NVIDIA Hackathon grand prize winner). ~100 check-ins with a 40% show rate (above the typical ~35% for similar meetups). Debuted a custom Q&A platform with QR codes on every slide and AI moderation using the NumFOCUS code of conduct.
 
 [View event page →](https://luma.com/3rl1oy7w)

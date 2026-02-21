@@ -17,10 +17,10 @@ You're not just the organizer. Once the event starts, you become the **host**. D
 
 The host's job:
 
-- **Set the tone** — Your energy is contagious. If you're excited, the room gets excited. If you're nervous and apologetic, the room feels it.
-- **Make people feel welcome** — Especially newcomers. They don't know anyone. You're their first point of contact with this community.
-- **Be the connective tissue** — You introduce people to each other. You bridge the segments. You keep things moving.
-- **Give flowers** — Make sure the people who made this possible feel seen and appreciated.
+- **Set the tone.** Your energy is contagious. If you're excited, the room gets excited. If you're nervous and apologetic, the room feels it.
+- **Make people feel welcome.** Especially newcomers. They don't know anyone. You're their first point of contact with this community.
+- **Be the connective tissue.** You introduce people to each other. You bridge the segments. You keep things moving.
+- **Give flowers.** Make sure the people who made this possible feel seen and appreciated.
 
 You don't need to be the most charismatic person in the room. You need to be genuinely excited about what's happening and willing to share that energy.
 
@@ -28,26 +28,26 @@ You don't need to be the most charismatic person in the room. You need to be gen
 
 ## Mental Preparation
 
-Hosting is a performance. Not in a fake way — in the way that any public-facing role requires you to bring intentional energy. Here's how to prepare.
+Hosting is a performance. Not in a fake way, but in the way that any public-facing role requires you to bring intentional energy. Here's how to prepare.
 
 ### The Day Before
 
-- **Review the run of show** — Know the flow cold. What happens when. Who speaks in what order. You shouldn't be checking notes during transitions.
-- **Prep your talking points** — Write down the key things you want to say at each transition. You don't need a script, but bullet points help.
-- **Visualize success** — Seriously. Picture the event going well. See yourself confidently welcoming people, smoothly introducing speakers, gracefully handling a hiccup. Mental rehearsal works.
+- **Review the run of show.** Know the flow cold. What happens when. Who speaks in what order. You shouldn't be checking notes during transitions.
+- **Prep your talking points.** Write down the key things you want to say at each transition. You don't need a script, but bullet points help.
+- **Visualize success.** Seriously. Picture the event going well. See yourself confidently welcoming people, smoothly introducing speakers, gracefully handling a hiccup. Mental rehearsal works.
 
 ### Day Of
 
-- **Protect your energy** — Don't drain yourself with stressful tasks right before. Delegate setup logistics if you can. You need to arrive fresh.
-- **Arrive early** — Give yourself buffer time. Rushing creates anxiety. Being early lets you settle in, greet people as they arrive, and feel ownership of the space.
-- **Move your body** — Before people arrive, do something physical. Walk around the block. Do some stretches. Shake out the nervous energy. Your body state affects your mental state.
-- **Find your hype song** — Some hosts listen to a specific song before going on. Whatever gets you in the zone. Play it in your AirPods while setting up.
+- **Protect your energy.** Don't drain yourself with stressful tasks right before. Delegate setup logistics if you can. You need to arrive fresh.
+- **Arrive early.** Give yourself buffer time. Rushing creates anxiety. Being early lets you settle in, greet people as they arrive, and feel ownership of the space.
+- **Move your body.** Before people arrive, do something physical. Walk around the block. Do some stretches. Shake out the nervous energy. Your body state affects your mental state.
+- **Find your hype song.** Some hosts listen to a specific song before going on. Whatever gets you in the zone. Play it in your AirPods while setting up.
 
 ### Right Before You Go On
 
-- **Take three deep breaths** — Slow inhale, slow exhale. Sounds basic. Works every time.
-- **Remind yourself why you're doing this** — You built this event because you care about this community. You're excited about the speakers. You want people to connect. That's genuine. Lead with that.
-- **Smile before you speak** — Your face sets the tone before your words do.
+- **Take three deep breaths.** Slow inhale, slow exhale. Sounds basic. Works every time.
+- **Remind yourself why you're doing this.** You built this event because you care about this community. You're excited about the speakers. You want people to connect. That's genuine. Lead with that.
+- **Smile before you speak.** Your face sets the tone before your words do.
 
 ---
 
@@ -63,7 +63,7 @@ One of your most important jobs: making the people who made this happen feel app
 | **Sponsors** | Opening remarks (after venue) | They funded food, drinks, or logistics. |
 | **Guest speakers** | When introducing them + closing | They prepared content and showed up. |
 | **Business owner** (live session) | After their segment | They were vulnerable in public. |
-| **Volunteers** | Closing remarks | Registration, photography, setup — they made it run. |
+| **Volunteers** | Closing remarks | Registration, photography, setup. They made it run. |
 | **Community partners** | Opening or closing | If they helped promote or co-organized. |
 
 ### How to Give Flowers
@@ -72,11 +72,11 @@ Be specific. Generic thanks feel hollow.
 
 **Bad:** "Thanks to Capital Factory for hosting us."
 
-**Good:** "Huge thanks to Capital Factory for hosting us tonight. Specifically to [Name] who made this happen — she's been incredibly supportive of this community and we're grateful to have a home here."
+**Good:** "Huge thanks to Capital Factory for hosting us tonight. Specifically to [Name] who made this happen. She's been incredibly supportive of this community and we're grateful to have a home here."
 
 **Bad:** "Thanks to our sponsor."
 
-**Good:** "Tonight's food is sponsored by [Company]. They're building [brief description of what they do]. If you're interested in [relevant thing], find [Name] — he's here tonight in the [color] shirt."
+**Good:** "Tonight's food is sponsored by [Company]. They're building [brief description of what they do]. If you're interested in [relevant thing], find [Name]. He's here tonight in the [color] shirt."
 
 ### The Sponsor Moment
 
@@ -93,7 +93,7 @@ Before we dive in, I want to give a moment to [Sponsor Company], who made tonigh
 Keep sponsor remarks to 5-10 minutes max. If they're running long, you can gently wrap them:
 
 ```
-This is great — I want to make sure we have time for our speakers, but [Name] will be around during networking if you want to learn more.
+This is great. I want to make sure we have time for our speakers, but [Name] will be around during networking if you want to learn more.
 ```
 
 ---
@@ -107,7 +107,7 @@ The first 5 minutes set the tone. Here's a template structure:
 ```
 Hey everyone! Welcome to Applied AI Live.
 
-For those who don't know me, I'm [Your Name]. I'm [your role — e.g., "one of the organizers of the Applied AI Society here in Austin"].
+For those who don't know me, I'm [Your Name]. I'm [your role, e.g., "one of the organizers of the Applied AI Society here in Austin"].
 
 Thanks for being here tonight. We've got a great lineup.
 ```
@@ -126,7 +126,7 @@ A quick, timely dad joke right after your welcome can loosen the room instantly.
 **Example (if Clawd/OpenClaw is a known thing in your community):**
 
 ```
-Before we dive in — quick question. What's a lobster's favorite programming language?
+Before we dive in, quick question. What's a lobster's favorite programming language?
 
 ...Claw-jure.
 
@@ -145,16 +145,16 @@ It gave me a 47-step implementation plan.
 
 The point isn't to be a comedian. It's to break the "polite audience silence" so people feel comfortable laughing, reacting, and engaging for the rest of the night.
 
-### 3. Give Flowers — Venue + Sponsors (1-2 minutes)
+### 3. Give Flowers: Venue + Sponsors (1-2 minutes)
 
 ```
 Before we start, some quick thank-yous.
 
-First, huge thanks to [Venue] for hosting us. [Specific person] made this happen — [one sentence about why they're great]. Give them a hand.
+First, huge thanks to [Venue] for hosting us. [Specific person] made this happen. [One sentence about why they're great.] Give them a hand.
 
 [Applause]
 
-Tonight's food is brought to you by [Sponsor]. They're [one sentence about what they do]. [Name] is here — find them during networking if you want to learn more.
+Tonight's food is brought to you by [Sponsor]. They're [one sentence about what they do]. [Name] is here. Find them during networking if you want to learn more.
 
 [If sponsor wants to speak: "Actually, [Name], want to say a quick hello?"]
 ```
@@ -166,7 +166,7 @@ Explain what's happening and why it matters. Make people excited about the forma
 ```
 So here's what's happening tonight.
 
-First, we've got [Speaker Name] sharing a case study on [topic]. This is real practitioner knowledge — the kind of stuff you can't Google.
+First, we've got [Speaker Name] sharing a case study on [topic]. This is real practitioner knowledge, the kind of stuff you can't Google.
 
 Then we're doing something a little different. We have [Business Owner Name] here with a real business problem. And [Engineer Name] is going to architect a solution live, on the whiteboard, while you watch.
 
@@ -179,7 +179,7 @@ This isn't a polished demo. It's real problem-solving in real time. That's the p
 Quick housekeeping:
 
 - Bathrooms are [location]
-- Food and drinks are [location] — help yourself
+- Food and drinks are [location], help yourself
 - We'll have networking time at the end, so stick around
 
 Alright, let's get started.
@@ -190,7 +190,7 @@ Alright, let's get started.
 If you want to build energy before the first speaker:
 
 ```
-Real quick — look around the room.
+Real quick, look around the room.
 
 We've got engineers building AI products. Business owners looking to level up. People who flew in from [city] for this.
 
@@ -210,7 +210,7 @@ Don't read their LinkedIn bio. Build anticipation.
 ### Template Structure
 
 1. **Why this talk matters** (1 sentence)
-2. **Who they are** (1-2 sentences — the interesting version)
+2. **Who they are** (1-2 sentences, the interesting version)
 3. **What they're going to share** (1 sentence)
 4. **Bring them up** (create energy)
 
@@ -225,7 +225,7 @@ Our next speaker is Rostam Mahabadi. He's an applied AI engineer based in Austin
 ```
 Alright, so one of the hardest things in this field is figuring out how to actually get clients. How do you go from "I know how to build AI stuff" to "people are paying me to build AI stuff"?
 
-Our first speaker figured that out. Rostam Mahabadi is an applied AI engineer here in Austin. He won the AITX x NVIDIA hackathon — which, by the way, is how I first heard about him. But more importantly, he's built a consulting practice doing exactly what we talk about at these events: helping real businesses implement AI.
+Our first speaker figured that out. Rostam Mahabadi is an applied AI engineer here in Austin. He won the AITX x NVIDIA hackathon, which, by the way, is how I first heard about him. But more importantly, he's built a consulting practice doing exactly what we talk about at these events: helping real businesses implement AI.
 
 He's going to share how he does it. Rostam, come on up.
 
@@ -234,9 +234,9 @@ He's going to share how he does it. Rostam, come on up.
 
 ### Tips
 
-- **Lead the applause** — Start clapping as they walk up. The room follows your energy.
-- **Make eye contact with the speaker** — As you hand off, look at them, smile, maybe a handshake or fist bump. Small gestures signal respect.
-- **Get out of the way** — Once they're up, step aside. Don't hover.
+- **Lead the applause.** Start clapping as they walk up. The room follows your energy.
+- **Make eye contact with the speaker.** As you hand off, look at them, smile, maybe a handshake or fist bump. Small gestures signal respect.
+- **Get out of the way.** Once they're up, step aside. Don't hover.
 
 ---
 
@@ -253,14 +253,14 @@ That was [Speaker Name]. Give them another hand.
 
 [Applause]
 
-[Optional: one sentence reaction — "That bit about [specific thing] is going to stick with me."]
+[Optional: one sentence reaction, e.g. "That bit about [specific thing] is going to stick with me."]
 
 Alright, we're going to take a 5-minute break. Grab some food, say hi to someone new. We'll start back up at [time] for the live architecture session.
 ```
 
 ### Transitioning to the Live Architecture Session
 
-This is the signature segment. Build it up. Don't just introduce the business owner — introduce their *philosophy* and the *tension* they're facing. Give the audience a reason to care before the whiteboard comes out.
+This is the signature segment. Build it up. Don't just introduce the business owner. Introduce their *philosophy* and the *tension* they're facing. Give the audience a reason to care before the whiteboard comes out.
 
 **Template structure:**
 
@@ -280,23 +280,23 @@ We have a real business owner here with a real problem. And [Engineer] is going 
 
 Let me introduce you to [Business Owner Name].
 
-[Business Owner] is a [role] based in [city]. They've [1-2 credibility points — clients, accomplishments, scale].
+[Business Owner] is a [role] based in [city]. They've [1-2 credibility points, e.g. clients, accomplishments, scale].
 
 Here's the interesting thing about [Business Owner].
 
-They have this philosophy: [their frame — e.g., "there's soul work and there's soulless work"].
+They have this philosophy: [their frame, e.g., "there's soul work and there's soulless work"].
 
-[Soul work description — the stuff that requires them, should never be automated].
+[Soul work description: the stuff that requires them, should never be automated].
 
-[Soulless work description — the infrastructure that can be delegated].
+[Soulless work description: the infrastructure that can be delegated].
 
-The problem? [The tension — e.g., "Over 50% of their time is getting eaten by operational overhead instead of the work that actually matters."]
+The problem? [The tension, e.g., "Over 50% of their time is getting eaten by operational overhead instead of the work that actually matters."]
 
 So the question is: [State the architecture challenge in one sentence].
 
 That's what [Engineer] is going to architect. Live. Right now.
 
-[Business Owner], [Engineer] — come on up.
+[Business Owner], [Engineer], come on up.
 
 [Lead applause as they walk to the whiteboard]
 ```
@@ -308,7 +308,7 @@ The philosophy/frame is what makes the problem *interesting*, not just a generic
 Gently redirect:
 
 ```
-This is great — I want to make sure we have time for [next thing]. Maybe we can continue this during networking?
+This is great. I want to make sure we have time for [next thing]. Maybe we can continue this during networking?
 ```
 
 Or:
@@ -344,13 +344,13 @@ A few thank-yous before we close out:
 - [Sponsor] for the food and drinks.
 - [Speaker names] for sharing their knowledge.
 - [Business Owner] for being brave enough to workshop their problem in public.
-- [Volunteers] — [names] — who helped with registration and photos.
+- [Volunteers] ([names]) who helped with registration and photos.
 - And all of you for showing up. This community is the people in this room.
 
 If you want to stay connected:
-- We're on [platform] — [handle or link]
-- Next event is [date/TBD] — we'll announce soon
-- If you want to get involved — speak, volunteer, partner — come find me
+- We're on [platform]: [handle or link]
+- Next event is [date/TBD]. We'll announce soon
+- If you want to get involved (speak, volunteer, partner), come find me
 
 Alright. Stick around for networking. Meet someone new. Thanks for being here.
 
@@ -364,7 +364,7 @@ If your venue has a hard stop, give people a heads up 10 minutes before:
 ```
 [Get on mic briefly]
 
-Hey everyone — quick heads up. We've got about 10 minutes before the venue needs to clear. Wrap up your conversations, exchange contact info if you haven't already. Thanks again for coming out.
+Hey everyone, quick heads up. We've got about 10 minutes before the venue needs to clear. Wrap up your conversations, exchange contact info if you haven't already. Thanks again for coming out.
 ```
 
 This prevents awkward shepherding and lets people finish conversations gracefully.
@@ -400,7 +400,7 @@ Set your laptop's sleep and hibernate settings to "never" before the event start
 If Q&A is eating into the next segment:
 
 ```
-We've got time for one more question, then we need to move on. [To speaker] But stick around — people can grab you during networking.
+We've got time for one more question, then we need to move on. [To speaker] But stick around. People can grab you during networking.
 ```
 
 ### Awkward Silence During Q&A
@@ -435,9 +435,9 @@ I want to make sure we stay focused on [topic]. Let's table that one for now.
 
 If the room feels flat:
 
-- **Move around** — Physical movement creates energy
-- **Ask the audience something** — "How many of you have tried [X]?" Get hands up.
-- **Acknowledge it** — "Alright, I can tell everyone's still warming up. That's fine. Let's dive in."
+- **Move around.** Physical movement creates energy.
+- **Ask the audience something.** "How many of you have tried [X]?" Get hands up.
+- **Acknowledge it.** "Alright, I can tell everyone's still warming up. That's fine. Let's dive in."
 
 ---
 
@@ -449,14 +449,14 @@ Review both before the event. Know the timeline, then layer in your talking poin
 
 | Run of Show Moment | Hosting Playbook Section |
 |--------------------|--------------------------|
-| 5:30 PM — Doors open | (Networking, food — you're greeting, not on mic) |
-| 5:50 PM — Welcome | Opening the Event |
-| 6:00 PM — Speaker remarks | Giving Flowers + Introducing Speakers |
-| 6:15 PM — Case study | Introducing Speakers |
-| 6:45 PM — Transition to live session | Transitions (Live Architecture) |
-| 7:15 PM — Wrap | Closing the Event |
-| 7:50 PM — Last call | Last Call Announcement |
-| 8:00 PM — Hard stop | Venue clears |
+| 5:30 PM: Doors open | (Networking, food. You're greeting, not on mic.) |
+| 5:50 PM: Welcome | Opening the Event |
+| 6:00 PM: Speaker remarks | Giving Flowers + Introducing Speakers |
+| 6:15 PM: Case study | Introducing Speakers |
+| 6:45 PM: Transition to live session | Transitions (Live Architecture) |
+| 7:15 PM: Wrap | Closing the Event |
+| 7:50 PM: Last call | Last Call Announcement |
+| 8:00 PM: Hard stop | Venue clears |
 
 ---
 
@@ -464,7 +464,7 @@ Review both before the event. Know the timeline, then layer in your talking poin
 
 ### Before the Event
 
-- [ ] Run of show memorized (not just reviewed — memorized)
+- [ ] Run of show memorized (not just reviewed; memorized)
 - [ ] Talking points written for each transition
 - [ ] Sponsor/speaker thank-you notes prepped (specific, not generic)
 - [ ] Business owner's philosophy/frame identified for live architecture intro
@@ -495,6 +495,6 @@ Review both before the event. Know the timeline, then layer in your talking poin
 
 ## See Also
 
-- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) — Full event playbook with run of show
-- [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session) — Prepping the business owner and engineer
-- [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships) — Why thanking partners matters
+- [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): Full event playbook with run of show
+- [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session): Prepping the business owner and engineer
+- [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships): Why thanking partners matters
