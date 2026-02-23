@@ -51,12 +51,13 @@ This playbook is a work in progress. Component guides:
 | [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews) | Interviewing practitioners to create profiles |
 | [Generating Flyers](/docs/playbooks/chapter-leader/generating-flyers) | Brand-consistent event flyers via Remotion |
 | [Writing Event Descriptions](/docs/playbooks/chapter-leader/writing-event-descriptions) | Crafting event listing copy for Luma, Meetup, etc. |
+| [Event Promotion](/docs/playbooks/chapter-leader/event-promotion) | Getting the word out and filling the room |
+| [Speaker Outreach](/docs/playbooks/chapter-leader/speaker-outreach) | Finding and recruiting practitioners to present |
 
 ### Coming Soon
 
 | Playbook | Description |
 |----------|-------------|
-| Event Promotion | Getting the word out effectively |
 | Day-of Logistics | Running a smooth event |
 | Post-Event Follow-up | Maximizing value after the event ends |
 
@@ -413,32 +414,4 @@ Hosted at Antler VC with AITX community. Featured Travis Oliphant (creator of Nu
 
 ## Start a Chapter
 
-Want to run Applied AI Live in your city? Here's how chapters work.
-
-### The Model
-
-Chapters are **hyperlocal**. Each one is rooted in a specific city or university, led by a dynamic young person (typically early 20s) who sees the opportunity and wants to lead the movement locally. Chapters raise their own money and spend it locally. Think subsidiarity: local communities funded by local people.
-
-### Chapter Leaders
-
-We're deliberate about who leads chapters. The ideal chapter leader is someone in their early 20s who:
-- Is an AI native: uses AI tools daily and sees the professional opportunity clearly
-- Is young, hungry, and eager to build something in their city
-- Has genuine curiosity and excitement about helping others learn applied AI
-- Brings energy and initiative (we provide the playbooks, training, and support)
-
-Connection and polish matter less than energy and curiosity. We help chapter leaders develop the rest.
-
-### Funding: Legacy Sponsors
-
-Chapter funding comes from **legacy sponsors**: successful local business owners who want to invest in the young people bringing AI to their city. They become the foundational sponsor of a chapter. In return, they get a direct hiring relationship with the most talented young AI practitioners, community goodwill, and a front-row seat to the future.
-
-This isn't corporate sponsorship at scale. It's personal. One person saying: "I planted this chapter." 20% of sponsors will do 80% of the funding. That's how community funding works.
-
-### First Events
-
-Start with a hackathon or build-a-thon. Teach people to use real tools (Claude Code, Cursor, etc.) and build something fun. Competitions with small prizes work well. The first non-Austin chapter is launching in Bordeaux, France, with a university hackathon.
-
-### Get Started
-
-[Reach out on GitHub](https://github.com/applied-ai-society) or visit [appliedaisociety.org/contribute](https://appliedaisociety.org/contribute) to express interest.
+Want to run Applied AI Live in your city? See [Starting a Chapter](/docs/playbooks/chapter-leader/starting-a-chapter) for the full guide on launching a chapter, what national provides, and what's expected of you.

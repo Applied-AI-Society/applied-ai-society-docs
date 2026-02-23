@@ -497,4 +497,5 @@ Review both before the event. Know the timeline, then layer in your talking poin
 
 - [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live): Full event playbook with run of show
 - [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session): Prepping the business owner and engineer
+- [Event Promotion](/docs/playbooks/chapter-leader/event-promotion): How to fill the room before you host it
 - [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships): Why thanking partners matters
