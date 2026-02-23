@@ -86,6 +86,7 @@ const sidebars: SidebarsConfig = {
             id: 'playbooks/practitioner/index',
           },
           items: [
+            'playbooks/practitioner/applied-ai-economy',
             'playbooks/practitioner/icp-clarity',
             'playbooks/practitioner/experimental-improvement',
           ],
@@ -102,6 +103,7 @@ const sidebars: SidebarsConfig = {
             'playbooks/business-owner/situation-map',
             'playbooks/business-owner/opportunity-brief',
             'playbooks/business-owner/beyond-automation',
+            'playbooks/business-owner/hiring-practitioners',
           ],
         },
       ],
