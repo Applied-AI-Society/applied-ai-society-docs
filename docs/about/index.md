@@ -7,11 +7,11 @@ title: What is the Applied AI Society?
 
 ## The Moment We're In
 
-AI models are advancing faster than anyone predicted. New breakthroughs land every week. And if you're early in or evolving your career right now, you're probably feeling two things at once: excitement about what's possible, and anxiety about what it means for your future.
+AI models are advancing faster than anyone predicted. New breakthroughs land every week. And the economy is changing just as fast. We're not watching a tech trend. We're watching the entire economy transition into the Applied AI Economy. Every sector. Every industry. Healthcare, law, finance, logistics, education, government. This affects all majors, all disciplines, all career paths. Roles that existed for decades are shrinking. Career paths your parents understood are becoming unrecognizable.
 
-You're not alone. Businesses don't know how to use this stuff either. There's a massive gap between what AI can do and what organizations are actually doing with it.
+But here's what most people miss: new roles are emerging just as quickly, and they pay well. AI implementation specialists. Automation architects. Agent developers. AI-native product managers. Companies across every industry are desperate for people who can actually *apply* this stuff, not just talk about it. These are six-figure roles that barely existed two years ago, and most job boards don't even have categories for them yet.
 
-That gap is the opportunity.
+There's a massive gap between what AI can do and what organizations are actually doing with it. That gap is the opportunity. And if you're early in or evolving your career right now, the question isn't whether AI will affect your future. It's whether you'll be on the building side of the transition.
 
 Nobody has this figured out. So let's all agree nobody has this figured out, and let's share notes.
 
