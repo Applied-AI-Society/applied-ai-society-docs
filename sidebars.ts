@@ -89,6 +89,7 @@ const sidebars: SidebarsConfig = {
             'playbooks/practitioner/applied-ai-economy',
             'playbooks/practitioner/icp-clarity',
             'playbooks/practitioner/experimental-improvement',
+            'playbooks/practitioner/pricing',
           ],
         },
         {
