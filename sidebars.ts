@@ -13,6 +13,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'philosophy/canon',
         'philosophy/principles',
+        'philosophy/north-star',
       ],
     },
     {
