@@ -51,7 +51,7 @@ That's the [Applied AI Canon](/docs/philosophy/canon). Efficiency is not the goa
 
 **Chapters.** Applied AI Society runs through hyperlocal chapters in cities and on campuses. Each chapter is led by young people who are already AI-native. They organize events, build community, and create a space where people figure out AI use cases together (not alone).
 
-**Events.** Every event features at least one person explaining how they make money in the applied AI economy. Real practitioners sharing real implementations, real business models, and real paths to income. Formats vary by chapter (live demos, panels, workshops, hackathons, coworking sessions) but the through-line is the same: you leave knowing more about how to get paid doing applied AI work.
+**Events.** Every Applied AI Society event is an initiation into the applied AI economy. Think of it as a landscape map. Three or four practitioners who are actually making money in applied AI share their path: consulting, startups, automation, products, freelance engineering. The audience walks away knowing what the paths are, what's real, and what's hype. Formats vary by chapter (live demos, panels, workshops, hackathons, coworking sessions) but the through-line is always the same. You leave with a clear picture of how people are getting paid in this space and a community to compare notes with.
 
 **Open Documentation.** Everything we learn gets documented and shared publicly. Playbooks for running chapters and hosting events. Standards for emerging agent file conventions. Case studies from real implementations. If we figure something out, we write it down so the next person doesn't have to start from scratch.
 
