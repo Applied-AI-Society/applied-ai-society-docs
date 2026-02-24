@@ -5,13 +5,19 @@ title: What is the Applied AI Society?
 
 # What is the Applied AI Society?
 
+## The Core Idea
+
+Applied AI Society shortens the time for young people to get their first applied AI money-making opportunity.
+
+That's it. That's why we exist. The path from "I don't know how to make money in this economy" to "I got my first applied AI opportunity" is too long, too confusing, and too lonely. We make it shorter.
+
 ## The Moment We're In
 
-AI models are advancing faster than anyone predicted. New breakthroughs land every week. And the economy is changing just as fast. We're not watching a tech trend. We're watching the entire economy transition into the Applied AI Economy. Every sector. Every industry. Healthcare, law, finance, logistics, education, government. This affects all majors, all disciplines, all career paths. Roles that existed for decades are shrinking. Career paths your parents understood are becoming unrecognizable.
+The entire economy is transitioning into the Applied AI Economy. Every sector. Every industry. Healthcare, law, finance, logistics, education, government. Roles that existed for decades are shrinking. Career paths your parents understood are becoming unrecognizable.
 
-But here's what most people miss: new roles are emerging just as quickly, and they pay well. AI implementation specialists. Automation architects. Agent developers. AI-native product managers. Companies across every industry are desperate for people who can actually *apply* this stuff, not just talk about it. These are six-figure roles that barely existed two years ago, and most job boards don't even have categories for them yet.
+But new roles are emerging just as quickly, and they pay well. AI implementation specialists. Automation architects. Agent developers. AI-native product managers. Companies across every industry are desperate for people who can actually *apply* this stuff, not just talk about it. These are six-figure roles that barely existed two years ago, and most job boards don't even have categories for them yet.
 
-There's a massive gap between what AI can do and what organizations are actually doing with it. That gap is the opportunity. And if you're early in or evolving your career right now, the question isn't whether AI will affect your future. It's whether you'll be on the building side of the transition.
+There's a massive gap between what AI can do and what organizations are actually doing with it. That gap is the opportunity. And the people who move now will be the ones everyone else calls in two years.
 
 Nobody has this figured out. So let's all agree nobody has this figured out, and let's share notes.
 
@@ -19,11 +25,17 @@ Nobody has this figured out. So let's all agree nobody has this figured out, and
   <img src="/img/retro-ad-2026.png" alt="Applied AI Society — Nobody has this figured out. Let's share notes." style={{maxWidth: '420px', width: '100%', borderRadius: '4px'}} />
 </div>
 
+## Founded By
+
+Applied AI Society was cofounded by Gary Sheng and Travis Oliphant (creator of NumPy, SciPy, cofounder of Anaconda). Gary brings deep experience in community building, product, and applied AI implementation. Travis brings decades of building open-source tools that power modern computing and data science.
+
+Together, they saw the same thing: young people have real AI fluency but no clear path to turn it into a living. The Society exists to fix that.
+
 ## What We Are
 
-The Applied AI Society is a community of people learning to apply AI professionally. Our focus is on college-aged students transitioning into the workforce, but we're open to all professionals.
+The Applied AI Society is a community where people learn how to make money in the applied AI economy. Our focus is on college-aged students transitioning into the workforce, but we're open to all professionals.
 
-Through hyperlocal chapters led by young leaders, we create spaces where the next generation of applied AI practitioners learns by doing. We host events, share open documentation, and connect members with businesses that need their fluency.
+Through hyperlocal chapters led by young leaders, we create spaces where the next generation of applied AI practitioners learns by doing. We host events where real people share how they're actually making money: consulting, startups, workflow automation, agentic AI products, freelance engineering, and more. We share open documentation and connect members with businesses that need their fluency.
 
 We call the people who bridge the gap between AI capability and real-world implementation "Applied AI Engineers." They help organizations actually use AI to better serve their customers and communities. That's the career path we're building together.
 
@@ -39,7 +51,7 @@ That's the [Applied AI Canon](/docs/philosophy/canon). Efficiency is not the goa
 
 **Chapters.** Applied AI Society runs through hyperlocal chapters in cities and on campuses. Each chapter is led by young people who are already AI-native. They organize events, build community, and create a space where people figure out AI use cases together (not alone).
 
-**Applied AI Live.** Our flagship event format. Practitioners present real implementations, live. Real people showing real systems they built for real organizations. Live discussions between fellow practitioners on what's emerging.
+**Events.** Every event features at least one person explaining how they make money in the applied AI economy. Real practitioners sharing real implementations, real business models, and real paths to income. Formats vary by chapter (live demos, panels, workshops, hackathons, coworking sessions) but the through-line is the same: you leave knowing more about how to get paid doing applied AI work.
 
 **Open Documentation.** Everything we learn gets documented and shared publicly. Playbooks for running chapters and hosting events. Standards for emerging agent file conventions. Case studies from real implementations. If we figure something out, we write it down so the next person doesn't have to start from scratch.
 
@@ -47,13 +59,13 @@ That's the [Applied AI Canon](/docs/philosophy/canon). Efficiency is not the goa
 
 ## For Students and Emerging Practitioners
 
-You already use AI every day. You prompt, you iterate, you build things your professors haven't seen yet. That's real fluency. The problem is there's no clear path from "I use AI" to "I apply AI professionally."
+You already use AI every day. You prompt, you iterate, you build things your professors haven't seen yet. That's real fluency. The problem is there's no clear path from "I use AI" to "I get paid to apply AI."
 
-Applied AI Society is that path.
+Applied AI Society shortens that path.
 
-You'll meet practitioners who are doing this work right now. You'll see real implementations, not demos. You'll build a portfolio of applied work and connect with organizations that need exactly what you know how to do.
+You'll meet practitioners who are making money in applied AI right now. You'll hear exactly how they got their first opportunities. You'll build a portfolio of applied work and connect with organizations that need exactly what you know how to do.
 
-Don't think of yourself as "I don't know anything." You're AI native. You can pick things up. You're flexible. That matters more than any credential right now.
+Don't think of yourself as "I don't know anything." You're AI native. You can pick things up. You're flexible. That matters more than any credential right now. We're here to help you turn that fluency into your first opportunity.
 
 ## For Universities and Young Adult Organizations
 
@@ -69,5 +81,5 @@ Bringing a chapter to your campus or organization means your people get access t
 
 - **Attend an event:** [See upcoming events →](https://appliedaisociety.org/events)
 - **Start a chapter:** [Learn how →](/docs/playbooks/chapter-leader)
-- **Present at Applied AI Live:** [Presenter playbook →](/docs/playbooks/presenter)
+- **Present at an event:** [Presenter playbook →](/docs/playbooks/presenter)
 - **Read the docs:** [Browse playbooks, standards, case studies, and philosophy →](/docs/philosophy)

@@ -41,6 +41,7 @@ const sidebars: SidebarsConfig = {
             id: 'playbooks/chapter-leader/index',
           },
           items: [
+            'playbooks/chapter-leader/starting-a-chapter',
             'playbooks/chapter-leader/applied-ai-live',
             'playbooks/chapter-leader/running-a-hackathon',
             'playbooks/chapter-leader/finding-a-photographer',
