@@ -18,6 +18,28 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: 'Roles',
+      link: {
+        type: 'doc',
+        id: 'roles/index',
+      },
+      items: [
+        'roles/ai-workflow-architect',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Concepts',
+      link: {
+        type: 'doc',
+        id: 'concepts/index',
+      },
+      items: [
+        'concepts/intent-engineering',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Case Studies',
       link: {
         type: 'doc',
