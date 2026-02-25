@@ -97,7 +97,7 @@ Sell the value of staying subscribed: practitioner profiles, case studies, commu
 
 **9. Referral CTA**
 
-"Know a business owner who could use AI help? Know someone who wants to get into applied AI engineering and make good money doing it? Forward this email to them."
+"Know a business owner who could use AI help? Know someone who wants to become an applied AI practitioner and make good money doing it? Forward this email to them."
 
 **10. Thank You**
 

@@ -30,7 +30,7 @@ docs/
 │   ├── chapter-leader/   # Running events, partnerships, tools, content, CRM
 │   │   └── event-recaps/
 │   ├── presenter/        # Guest speaker prep
-│   ├── practitioner/     # Guides for applied AI engineers doing client work
+│   ├── practitioner/     # Guides for applied AI practitioners doing client work
 │   └── business-owner/   # Resources for operators looking to implement AI
 ├── truth-management/     # Framework: principles, processes, tools
 ├── brand/                # Visual identity, colors, fonts, AI generation guide

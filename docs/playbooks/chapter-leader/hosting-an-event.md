@@ -218,14 +218,14 @@ Don't read their LinkedIn bio. Build anticipation.
 
 **Bad introduction:**
 ```
-Our next speaker is Rostam Mahabadi. He's an applied AI engineer based in Austin. He won the AITX x NVIDIA hackathon. Please welcome Rostam.
+Our next speaker is Rostam Mahabadi. He's an applied AI practitioner based in Austin. He won the AITX x NVIDIA hackathon. Please welcome Rostam.
 ```
 
 **Good introduction:**
 ```
 Alright, so one of the hardest things in this field is figuring out how to actually get clients. How do you go from "I know how to build AI stuff" to "people are paying me to build AI stuff"?
 
-Our first speaker figured that out. Rostam Mahabadi is an applied AI engineer here in Austin. He won the AITX x NVIDIA hackathon, which, by the way, is how I first heard about him. But more importantly, he's built a consulting practice doing exactly what we talk about at these events: helping real businesses implement AI.
+Our first speaker figured that out. Rostam Mahabadi is an applied AI practitioner here in Austin. He won the AITX x NVIDIA hackathon, which, by the way, is how I first heard about him. But more importantly, he's built a consulting practice doing exactly what we talk about at these events: helping real businesses implement AI.
 
 He's going to share how he does it. Rostam, come on up.
 

@@ -37,7 +37,7 @@ The Applied AI Society is a community where people learn how to make money in th
 
 Through hyperlocal chapters led by young leaders, we create spaces where the next generation of applied AI practitioners learns by doing. We host events where real people share how they're actually making money: consulting, startups, workflow automation, agentic AI products, freelance engineering, and more. We share open documentation and connect members with businesses that need their fluency.
 
-We call the people who bridge the gap between AI capability and real-world implementation "Applied AI Engineers." They help organizations actually use AI to better serve their customers and communities. That's the career path we're building together.
+We call the people who bridge the gap between AI capability and real-world implementation "applied AI practitioners." They help organizations actually use AI to better serve their customers and communities. That's the career path we're building together.
 
 ## What We Believe
 
@@ -75,7 +75,7 @@ Applied AI Society gives young people a community where they can channel that an
 
 Bringing a chapter to your campus or organization means your people get access to practitioners, open resources, and a national network of peers. If you already have a venue that wants this kind of programming, it costs nothing to start. You may want to invest in things like AV and recording, but the barrier to entry is low. We provide the playbooks, the event formats, and the community infrastructure.
 
-**Want to bring Applied AI Society to your university or organization?** [Get in touch →](https://appliedaisociety.org/contribute), or have the person who flagged the Society to you connect you with Gary Sheng on text, WhatsApp, or email.
+**Want to bring Applied AI Society to your university or organization?** [Get in touch →](https://appliedaisociety.org/contribute), or reach out to Gary Sheng directly on Telegram (@garysheng) or X DMs (@garysheng).
 
 ## Get Involved
 
@@ -83,3 +83,4 @@ Bringing a chapter to your campus or organization means your people get access t
 - **Start a chapter:** [Learn how →](/docs/playbooks/chapter-leader)
 - **Present at an event:** [Presenter playbook →](/docs/playbooks/presenter)
 - **Read the docs:** [Browse playbooks, standards, case studies, and philosophy →](/docs/philosophy)
+- **Join the community:** Discord coming soon. Follow [@AppliedAISoc on X](https://x.com/appliedaisoc) for the announcement.

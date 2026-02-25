@@ -72,7 +72,7 @@ A high-level view of everything that goes into running an Applied AI Live event.
 - [ ] Secure venue (partner space preferred). See [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue)
 - [ ] Confirm practitioner speaker for case study. See [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews)
 - [ ] Find business owner for live architecture session. See [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session)
-- [ ] Confirm Applied AI Engineer to architect the solution
+- [ ] Confirm practitioner to architect the solution
 - [ ] Create event page (Meetup and/or Luma). See [Tools](/docs/playbooks/chapter-leader/tools)
 - [ ] Write event description. See [Writing Event Descriptions](/docs/playbooks/chapter-leader/writing-event-descriptions)
 
@@ -153,7 +153,7 @@ Applied AI Live events should be cheap to run. The goal is replicability. Any ch
 
 Ideally, the organizer's time and any volunteer help (photography, registration, etc.) isn't "paid for" in the traditional sense. The value is intrinsic: these are people who genuinely want to network with this community. Running or helping with the event gives them access and credibility.
 
-Find people who want to be there anyway. The photographer who's an aspiring applied AI engineer. The volunteer who wants to meet business owners. That's the model.
+Find people who want to be there anyway. The photographer who's an aspiring applied AI practitioner. The volunteer who wants to meet business owners. That's the model.
 
 ### On Sponsorship
 

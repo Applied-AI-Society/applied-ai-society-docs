@@ -15,7 +15,7 @@ title: "Applied AI Live #1: Austin"
 
 ## What Happened
 
-Applied AI Live #1 was the inaugural event for the Applied AI Society. Hosted at Antler VC in downtown Austin in partnership with AITX, it brought together applied AI engineers, business owners, and tool builders for an evening of practitioner knowledge sharing.
+Applied AI Live #1 was the inaugural event for the Applied AI Society. Hosted at Antler VC in downtown Austin in partnership with AITX, it brought together applied AI practitioners, business owners, and tool builders for an evening of practitioner knowledge sharing.
 
 ### The Format
 
@@ -34,7 +34,7 @@ Applied AI Live #1 was the inaugural event for the Applied AI Society. Hosted at
 ### Things That Worked
 
 - **Name tags made the event legible.** Color-coded by role (engineer, business owner, tool builder), they helped people find each other. Multiple attendees called them out as a highlight. Printed by Minuteman Press.
-![Custom printed name tags for Applied AI Engineer role, branded with Applied AI Live](/img/events/live-1/nametags.jpg)
+![Custom printed name tags for Applied AI Practitioner role, branded with Applied AI Live](/img/events/live-1/nametags.jpg)
 - **Branded staff shirts elevated the feel.** Ten shirts at ~$100. Staff wearing them at registration made the event feel immediately official.
 ![Rostam holding the Applied AI Society branded shirt](/img/events/live-1/rostam-shirt.jpg)
 - **Food for early arrivals set the tone.** Firehouse Subs (~$250, including veggie options) gave people something to do while waiting. The 25-minute window before the opening address became a natural networking period.
