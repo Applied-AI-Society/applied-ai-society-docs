@@ -25,6 +25,7 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         'roles/ai-workflow-architect',
+        'roles/ai-agent-consultant',
         'roles/fractional-ai-executive',
       ],
     },
@@ -36,6 +37,7 @@ const sidebars: SidebarsConfig = {
         id: 'concepts/index',
       },
       items: [
+        'concepts/context-engineering',
         'concepts/intent-engineering',
       ],
     },
@@ -46,7 +48,9 @@ const sidebars: SidebarsConfig = {
         type: 'doc',
         id: 'case-studies/index',
       },
-      items: [],
+      items: [
+        'case-studies/rostam-mahabadi',
+      ],
     },
     {
       type: 'category',

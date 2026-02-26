@@ -17,7 +17,7 @@ The entire economy is transitioning into the Applied AI Economy. Every sector. E
 
 But new roles are emerging just as quickly, and they pay well. AI implementation specialists. Automation architects. Agent developers. Fractional AI executives. AI-native product managers. Companies across every industry are desperate for people who can actually *apply* this stuff, not just talk about it. These are six-figure roles that barely existed two years ago, and most job boards don't even have categories for them yet. We're documenting these roles as they form: [see the full list →](/docs/roles)
 
-There's a massive gap between what AI can do and what organizations are actually doing with it. That gap is the opportunity. And the people who move now will be the ones everyone else calls in two years.
+There's a massive gap between what AI can do and what organizations are actually doing with it. That gap is the opportunity. And the people who move now will be the ones everyone else calls in two years. If you want to see what the paths actually look like, [start here →](/docs/playbooks/practitioner/applied-ai-economy)
 
 Nobody has this figured out. So let's all agree nobody has this figured out, and let's share notes.
 
@@ -53,7 +53,7 @@ That's the [Applied AI Canon](/docs/philosophy/canon). Efficiency is not the goa
 
 **Events.** Every Applied AI Society event is an initiation into the applied AI economy. Our flagship format, [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live), brings together live players: practitioners who are rapidly evolving their techniques and excited to share field notes from the front lines. The audience doesn't just hear about what's possible. They get pulled into the current. We're also developing new formats like [Applied AI Office Hours](/docs/playbooks/chapter-leader/event-formats#applied-ai-office-hours) (where business owners get hands-on help from practitioners) and hackathons. [See all event formats →](/docs/playbooks/chapter-leader/event-formats)
 
-**Open Documentation.** Everything we learn gets documented and shared publicly. Playbooks for running chapters and hosting events. Standards for emerging agent file conventions. Case studies from real implementations. If we figure something out, we write it down so the next person doesn't have to start from scratch.
+**Open Documentation.** The site you're reading right now is a shared, collective field notes hub. It exists so that everyone in this community can make sense of and seize the opportunities forming in the applied AI economy. [Roles](/docs/roles) document the careers emerging. [Concepts](/docs/concepts) name the ideas we're all figuring out. [Case studies](/docs/case-studies) show what the work actually looks like. [Playbooks](/docs/playbooks) capture how to run events, find clients, and build chapters. None of this is finished. All of it is evolving. If we figure something out, we write it down so the next person doesn't have to start from scratch, and so the person after that can build on what the first two learned. The docs are the community's shared memory.
 
 **Sponsors, not gatekeepers.** Local businesses and AI companies sponsor chapters because they want access to AI-native talent. Sponsors fund the community. They don't control it.
 
@@ -63,7 +63,9 @@ You already use AI every day. You prompt, you iterate, you build things your pro
 
 Applied AI Society shortens that path.
 
-You'll meet practitioners who are making money in applied AI right now. You'll hear exactly how they got their first opportunities. You'll build a portfolio of applied work and connect with organizations that need exactly what you know how to do.
+You'll meet practitioners who are making money in applied AI right now. You'll hear exactly how they got their first opportunities. The paths are more varied than you think: workflow automation, AI consulting, building AI-native products, intrapreneurship inside existing companies, agent development, freelance engineering. [See the full landscape →](/docs/playbooks/practitioner/applied-ai-economy)
+
+You'll build a portfolio of applied work and connect with organizations that need exactly what you know how to do.
 
 Don't think of yourself as "I don't know anything." You're AI native. You can pick things up. You're flexible. That matters more than any credential right now. We're here to help you turn that fluency into your first opportunity.
 
