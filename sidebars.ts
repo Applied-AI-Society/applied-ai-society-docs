@@ -25,6 +25,7 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         'roles/ai-workflow-architect',
+        'roles/fractional-ai-executive',
       ],
     },
     {
@@ -64,6 +65,7 @@ const sidebars: SidebarsConfig = {
           },
           items: [
             'playbooks/chapter-leader/starting-a-chapter',
+            'playbooks/chapter-leader/event-formats',
             'playbooks/chapter-leader/applied-ai-live',
             'playbooks/chapter-leader/running-a-hackathon',
             'playbooks/chapter-leader/finding-a-photographer',

@@ -5,20 +5,24 @@ title: Applied AI Live
 
 # Applied AI Live
 
-A workshop series where AI-native young people and experienced practitioners learn together by solving real business problems.
+A gathering of live players in the applied AI economy, sharing field notes and pulling newcomers into the work.
 
 ---
 
 ## What Is It?
 
-Applied AI Live is a recurring event format. The goal: create a Schelling point where young people comfortable with AI can learn from experienced practitioners, tackle real problems, and start building their professional network.
+Applied AI Live is a recurring event format built around a simple idea: the people who are actually thriving in the applied AI economy are [live players](https://samoburja.com/live-versus-dead-players/) (Samo Burja's term for people who can do things they haven't done before). They are rapidly evolving their techniques, finding new opportunities, and building real knowledge through practice. Applied AI Live puts those people on stage.
 
-Each event features:
-- **Practitioner talks:** Real case studies from people doing the work
-- **Live problem-solving:** A real business owner presents an actual problem, and a practitioner architects a solution on the spot
-- **Networking:** Time for attendees to connect and share notes
+The goal: create a Schelling point where live players share field notes with each other and with newcomers, democratizing what they're learning in real time. The practitioners who present aren't lecturing from a fixed playbook. They're reporting from the front lines of a field that changes every week. The audience doesn't just learn what's possible. They get pulled into the current.
 
-This isn't a lecture series. It's a working session for anyone ready to apply AI professionally.
+The format is evolving. Early events featured live whiteboard architecture sessions (a business owner presents a problem, a practitioner architects a solution on the spot). That may continue in some form, but the core is becoming clearer with each event: **practitioners sharing honest field notes, getting attendees up to speed on what's actually working, and co-shepherding each other through a landscape that moves fast.**
+
+Each event features some combination of:
+- **Practitioner field notes:** Real case studies, lessons learned, techniques that are working right now
+- **Live problem-solving:** Business owners present real problems, practitioners think through solutions together
+- **Networking:** Time for attendees to connect, compare notes, and find collaborators
+
+This isn't a lecture series. It's a room full of people who are actively figuring this out, sharing what they know so everyone moves faster.
 
 ---
 
@@ -172,12 +176,12 @@ A typical 2-hour Applied AI Live event:
 | 5:30 PM | Doors open. Food out. Networking. |
 | 6:00 PM | Welcome + housekeeping (5 min) |
 | 6:05 PM | Sponsor remarks (10–15 min) |
-| 6:20 PM | Practitioner talk: Case study with Q&A (30 min) |
-| 6:50 PM | Live architecture session: Business owner presents problem, engineer architects solution on whiteboard (30 min) |
+| 6:20 PM | Practitioner field notes: Case study with Q&A (30 min) |
+| 6:50 PM | Second segment: Another practitioner, live problem-solving session, or open discussion (30 min) |
 | 7:20 PM | Open networking |
 | 7:30 PM | Wrap |
 
-Adjust based on your speakers and venue. The live architecture session is the signature element. Protect time for it.
+Adjust based on your speakers, venue, and what your community responds to. The format is evolving. The through-line is live players sharing real field notes. Protect time for that.
 
 **Tip:** Use auto-rotating animated slides during downtime and transitions (doors open, breaks, networking). This keeps the screen active with branding, sponsor info, or upcoming announcements instead of a static or blank display. It fills dead air visually and keeps energy in the room.
 

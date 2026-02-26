@@ -15,7 +15,7 @@ That's it. That's why we exist. The path from "I don't know how to make money in
 
 The entire economy is transitioning into the Applied AI Economy. Every sector. Every industry. Healthcare, law, finance, logistics, education, government. Roles that existed for decades are shrinking. Career paths your parents understood are becoming unrecognizable.
 
-But new roles are emerging just as quickly, and they pay well. AI implementation specialists. Automation architects. Agent developers. AI-native product managers. Companies across every industry are desperate for people who can actually *apply* this stuff, not just talk about it. These are six-figure roles that barely existed two years ago, and most job boards don't even have categories for them yet.
+But new roles are emerging just as quickly, and they pay well. AI implementation specialists. Automation architects. Agent developers. Fractional AI executives. AI-native product managers. Companies across every industry are desperate for people who can actually *apply* this stuff, not just talk about it. These are six-figure roles that barely existed two years ago, and most job boards don't even have categories for them yet. We're documenting these roles as they form: [see the full list →](/docs/roles)
 
 There's a massive gap between what AI can do and what organizations are actually doing with it. That gap is the opportunity. And the people who move now will be the ones everyone else calls in two years.
 
@@ -51,7 +51,7 @@ That's the [Applied AI Canon](/docs/philosophy/canon). Efficiency is not the goa
 
 **Chapters.** Applied AI Society runs through hyperlocal chapters in cities and on campuses. Each chapter is led by young people who are already AI-native. They organize events, build community, and create a space where people figure out AI use cases together (not alone).
 
-**Events.** Every Applied AI Society event is an initiation into the applied AI economy. Think of it as a landscape map. Three or four practitioners who are actually making money in applied AI share their path: consulting, startups, automation, products, freelance engineering. The audience walks away knowing what the paths are, what's real, and what's hype. Formats vary by chapter (live demos, panels, workshops, hackathons, coworking sessions) but the through-line is always the same. You leave with a clear picture of how people are getting paid in this space and a community to compare notes with.
+**Events.** Every Applied AI Society event is an initiation into the applied AI economy. Our flagship format, [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live), brings together live players: practitioners who are rapidly evolving their techniques and excited to share field notes from the front lines. The audience doesn't just hear about what's possible. They get pulled into the current. We're also developing new formats like [Applied AI Office Hours](/docs/playbooks/chapter-leader/event-formats#applied-ai-office-hours) (where business owners get hands-on help from practitioners) and hackathons. [See all event formats →](/docs/playbooks/chapter-leader/event-formats)
 
 **Open Documentation.** Everything we learn gets documented and shared publicly. Playbooks for running chapters and hosting events. Standards for emerging agent file conventions. Case studies from real implementations. If we figure something out, we write it down so the next person doesn't have to start from scratch.
 
@@ -83,4 +83,4 @@ Bringing a chapter to your campus or organization means your people get access t
 - **Start a chapter:** [Learn how →](/docs/playbooks/chapter-leader)
 - **Present at an event:** [Presenter playbook →](/docs/playbooks/presenter)
 - **Read the docs:** [Browse playbooks, standards, case studies, and philosophy →](/docs/philosophy)
-- **Join the community:** Discord coming soon. Follow [@AppliedAISoc on X](https://x.com/appliedaisoc) for the announcement.
+- **Join the community:** [Join our Discord →](https://discord.gg/7KeNHKck) to meet chapter leaders, practitioners, and members across cities. Follow [@AppliedAISoc on X](https://x.com/appliedaisoc) for updates.
