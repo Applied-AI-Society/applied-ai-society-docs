@@ -49,7 +49,7 @@ This playbook is a work in progress. Component guides:
 |----------|-------------|
 | [Presenting at Applied AI Live](/docs/playbooks/presenter/presenting-at-applied-ai-live) | Guest presenter guide: case study talks and topic discussions |
 | [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session) | Finding the right business owner and prepping the engineer |
-| [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue) | Securing a recurring partner space |
+| [Finding a Venue](/docs/playbooks/chapter-leader/finding-a-venue) | Securing a recurring partner space (aim for seated capacity slightly above expected attendance; slight crowding creates energy, but most people should be able to sit) |
 | [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer) | Sourcing affordable, reliable event photography |
 | [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) | Capturing video on a budget |
 | [Case Study Interviews](/docs/playbooks/chapter-leader/case-study-interviews) | Interviewing practitioners to create profiles |
@@ -103,7 +103,7 @@ A high-level view of everything that goes into running an Applied AI Live event.
 - [ ] Reconfirm with photographer and videographer
 - [ ] Pick up custom stickers/name tags if not delivered
 - [ ] Confirm food delivery plan
-- [ ] Confirm AV setup with venue
+- [ ] **Test full AV setup at the venue** (speaker, mic, laptop, display). Do not skip this. Bring backup gear.
 - [ ] Reconfirm with all speakers
 
 ### Day Of
@@ -175,13 +175,19 @@ A typical 2-hour Applied AI Live event:
 |------|---------|
 | 5:30 PM | Doors open. Food out. Networking. |
 | 6:00 PM | Welcome + housekeeping (5 min) |
-| 6:05 PM | Sponsor remarks (10–15 min) |
-| 6:20 PM | Practitioner field notes: Case study with Q&A (30 min) |
-| 6:50 PM | Second segment: Another practitioner, live problem-solving session, or open discussion (30 min) |
-| 7:20 PM | Open networking |
+| 6:05 PM | Sponsor remarks or short opener (10 min max) |
+| 6:15 PM | Practitioner field notes: Case study with Q&A (30 min) |
+| 6:45 PM | Second segment: Another practitioner, live problem-solving session, or open discussion (30 min) |
+| 7:15 PM | Open networking |
 | 7:30 PM | Wrap |
 
 Adjust based on your speakers, venue, and what your community responds to. The format is evolving. The through-line is live players sharing real field notes. Protect time for that.
+
+**Key lesson from Live #2: don't open with a long technical presentation.** The opening segment sets the energy for the whole event. If your first speaker runs long or isn't dynamic, the room deflates before the good stuff starts. Keep the opener short (10 min max) and high-energy. Save longer, deeper segments for after the audience is warmed up. If your strongest speaker is going second, that's fine, but make sure the first segment doesn't drain the room.
+
+**Prioritize live demos over abstract talk.** Attendees want to see how things actually work. A practitioner showing their agent architecture in real time, walking through their actual workflow, or demoing a tool live is far more compelling than slides describing the same thing. When recruiting speakers, ask: "Can you show us, not just tell us?" The best Applied AI Live segments are the ones where the audience can see the work happening.
+
+**On speaker selection:** You need at least one charismatic speaker per event, or a strong moderator who can carry the energy. You don't need both, but you can't have neither. If a speaker has deep expertise but isn't a dynamic presenter, pair them with a moderator who can ask sharp questions and keep the pace up.
 
 **Tip:** Use auto-rotating animated slides during downtime and transitions (doors open, breaks, networking). This keeps the screen active with branding, sponsor info, or upcoming announcements instead of a static or blank display. It fills dead air visually and keeps energy in the room.
 
@@ -189,7 +195,7 @@ Adjust based on your speakers, venue, and what your community responds to. The f
 
 ## Audio/Visual
 
-Keep it simple. You don't need a full AV setup.
+Keep it simple, but **battle-test everything before event day.** Sound issues are the #1 complaint from attendees. A room full of excited people with no working mic kills the energy fast.
 
 **The basics:**
 - A handheld mic or portable speaker so presenters can be heard
@@ -198,10 +204,15 @@ Keep it simple. You don't need a full AV setup.
 
 Many venues provide basic AV. Ask during your venue walkthrough.
 
-**Warnings from Live #1:**
-- **Set your computer to never sleep/hibernate.** At our first event, the computer went to sleep mid-presentation. Avoid this by changing your power settings before the event starts.
+**Non-negotiable: test your full AV setup at the venue before event day.** Don't discover problems during the event. Bring your speaker, mic, and laptop to the venue at least a day before and run through the setup end to end. If the venue provides AV, confirm it works with your equipment.
+
+**Bring backup gear.** A second mic, a backup speaker, extra cables. When something fails mid-event (and eventually it will), you need a fallback that takes seconds to deploy, not minutes.
+
+**Lessons from Live #1 and #2:**
+- **Set your computer to never sleep/hibernate.** At Live #1, the computer went to sleep mid-presentation. Change your power settings before the event starts.
 - **Bring a backup mic.** Only one of our two mics worked at Live #1. The workaround: the host spoke loudly without a mic so the guest could use the single working mic. It worked, but having a backup would have been better.
 - **TV/display connectivity can be finicky.** The TV required on/off cycling to connect to the laptop. Test this during setup, not during the event.
+- **Sound system failure at Live #2.** The primary speaker system didn't work, and a volunteer had to go buy a replacement mid-event. This is preventable. Test your audio setup at the venue beforehand.
 
 If the room is small enough (under 30 people) and acoustics are good, you might not need a mic at all. But for larger groups or noisy spaces, make sure speakers can project.
 
@@ -406,6 +417,11 @@ Partnerships compound. The venue that felt thanked is more likely to host you ag
 ---
 
 ## Past Events
+
+**Applied AI Live #2, Austin, TX (February 2026)**
+Hosted at Grain & Berry with AITX community. Featured Reid McCrabb and Jack Moffatt (Linkt, agentic GTM case study), Mahaveer Dharmchand (IBM Watson, enterprise AI perspective), and a guardrails panel with Stephanos Nicklow, Patrick Skinner, and Jack Moffatt on GRC for agentic systems. ~80 check-ins with a 36% show rate. The Linkt case study and OpenClaw guardrails panel were standout segments.
+
+[View event page →](https://luma.com/AppliedAILive002)
 
 **Applied AI Live #1, Austin, TX (January 2026)**
 Hosted at Antler VC with AITX community. Featured Travis Oliphant (creator of NumPy/SciPy, founder of OpenTeams) and Rostam Mahabadi (AITX x NVIDIA Hackathon grand prize winner). ~100 check-ins with a 40% show rate (above the typical ~35% for similar meetups). Debuted a custom Q&A platform with QR codes on every slide and AI moderation using the NumFOCUS code of conduct.
