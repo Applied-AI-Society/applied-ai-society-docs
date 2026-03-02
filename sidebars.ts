@@ -50,6 +50,7 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         'case-studies/rostam-mahabadi',
+        'case-studies/gary-sheng-media-automation',
         'case-studies/tim-dort-golts-personal-transformation',
       ],
     },
@@ -93,7 +94,7 @@ const sidebars: SidebarsConfig = {
               type: 'category',
               label: 'Event Recaps',
               link: { type: 'doc', id: 'playbooks/chapter-leader/event-recaps/index' },
-              items: ['playbooks/chapter-leader/event-recaps/applied-ai-live-1'],
+              items: ['playbooks/chapter-leader/event-recaps/applied-ai-live-1', 'playbooks/chapter-leader/event-recaps/applied-ai-live-2'],
             },
           ],
         },
@@ -132,7 +133,7 @@ const sidebars: SidebarsConfig = {
           items: [
             'playbooks/business-owner/quick-check',
             'playbooks/business-owner/situation-map',
-            'playbooks/business-owner/opportunity-brief',
+            'playbooks/business-owner/pilot-scope',
             'playbooks/business-owner/beyond-automation',
             'playbooks/business-owner/hiring-practitioners',
           ],

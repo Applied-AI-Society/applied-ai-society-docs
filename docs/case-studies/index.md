@@ -29,14 +29,9 @@ This section features two kinds of content: **project case studies** showing how
 
 ## Project Case Studies
 
-Coming soon. Detailed case studies from Applied AI practitioners showing how they've helped businesses implement AI systems.
-
-Each project case study will include:
-- **The Challenge**: What problem the business was facing
-- **The Approach**: How AI was applied to solve it
-- **The Stack**: Tools and technologies used
-- **The Results**: Measurable outcomes and impact
-- **Lessons Learned**: What worked, what didn't
+| Case Study | Who | Summary |
+|------------|-----|---------|
+| [Gary Sheng: Media Automation](./gary-sheng-media-automation) | Gary Sheng | Building custom AI content tools for media companies: meme generators, video reformatters, and image stylizers driving tens of millions of impressions |
 
 ---
 
