@@ -142,6 +142,18 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
+      label: 'Sovereign Command Centers',
+      link: {
+        type: 'doc',
+        id: 'sovereign-command-centers/index',
+      },
+      items: [
+        'sovereign-command-centers/principles',
+        'sovereign-command-centers/question-bank',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Truth Management',
       link: {
         type: 'doc',
