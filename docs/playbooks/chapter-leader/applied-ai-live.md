@@ -87,8 +87,8 @@ A high-level view of everything that goes into running an Applied AI Live event.
 - [ ] Generate event flyer. See [Generating Flyers](/docs/playbooks/chapter-leader/generating-flyers)
 - [ ] Confirm photographer. See [Finding a Photographer](/docs/playbooks/chapter-leader/finding-a-photographer)
 - [ ] Figure out recording setup. See [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event)
-- [ ] Order name tags (color-coded or custom printed)
-- [ ] Order branded staff shirts
+- [ ] Order name tags (blank or color-coded by role)
+- [ ] Order branded staff shirts (see [Branded Shirts](#branded-shirts))
 
 ### 2 Weeks Before
 
@@ -96,13 +96,13 @@ A high-level view of everything that goes into running an Applied AI Live event.
 - [ ] Write problem brief from pre-call. See [Live Architecture Session](/docs/playbooks/chapter-leader/live-architecture-session)
 - [ ] Send problem brief to engineer
 - [ ] Continue promoting and accepting RSVPs
-- [ ] Schedule food delivery
+- [ ] *(Optional)* Schedule food delivery
 
 ### 1 Week Before
 
 - [ ] Reconfirm with photographer and videographer
-- [ ] Pick up custom stickers/name tags if not delivered
-- [ ] Confirm food delivery plan
+- [ ] Pick up name tags if not delivered
+- [ ] *(Optional)* Confirm food delivery plan
 - [ ] **Test full AV setup at the venue** (speaker, mic, laptop, display). Do not skip this. Bring backup gear.
 - [ ] Reconfirm with all speakers
 
@@ -111,11 +111,12 @@ A high-level view of everything that goes into running an Applied AI Live event.
 - [ ] Send a hype video and/or reminder blast in the morning (see below)
 - [ ] Arrive early for setup
 - [ ] Set up registration table with laptop and name tags
-- [ ] Confirm food delivery and arrange spread
+- [ ] *(Optional)* Confirm food delivery and arrange spread
 - [ ] Set computer to never sleep/hibernate
 - [ ] Test both mics
 - [ ] Charge portable speaker and queue up music playlist
 - [ ] Brief photographer and videographer
+- [ ] Start screen recording on the presentation laptop (see [Audio/Visual](#audiovisual))
 - [ ] Run the event (see Run of Show below)
 - [ ] Clean up and thank venue staff
 
@@ -138,6 +139,8 @@ In addition to (or instead of) a video, send a written blast to your RSVP list t
 
 Applied AI Live events should be cheap to run. The goal is replicability. Any chapter should be able to host one without a huge budget.
 
+**Food is completely optional.** A great first event needs good speakers, a venue, a working mic, name tags, and branded shirts for your team. Everything else is a nice-to-have. Don't let the extras slow you down or stop you from hosting.
+
 **Real costs from Applied AI Live #1 (~100 attendees):**
 
 | Category | Actual Cost |
@@ -151,7 +154,7 @@ Applied AI Live events should be cheap to run. The goal is replicability. Any ch
 | Registration desk | $0 (volunteers) |
 | **Total** | **~$770–820** |
 
-**Budget roughly $1,000 for an Applied AI Live event.** This assumes a free venue through partnerships, which is why partnerships are so important (see [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships)). If you handle your own photos/video and skip shirts, you can run leaner, but the full experience is worth the investment.
+**Budget roughly $1,000 for an Applied AI Live event.** This assumes a free venue through partnerships, which is why partnerships are so important (see [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships)). If you handle your own photos/video and skip food and name tags, you can run leaner. But don't skip the shirts.
 
 ### The Human Cost
 
@@ -173,7 +176,7 @@ A typical 2-hour Applied AI Live event:
 
 | Time | Segment |
 |------|---------|
-| 5:30 PM | Doors open. Food out. Networking. |
+| 5:30 PM | Doors open. Networking. (Food out if providing it.) |
 | 6:00 PM | Welcome + housekeeping (5 min) |
 | 6:05 PM | Sponsor remarks or short opener (10 min max) |
 | 6:15 PM | Practitioner field notes: Case study with Q&A (30 min) |
@@ -216,6 +219,8 @@ Many venues provide basic AV. Ask during your venue walkthrough.
 
 If the room is small enough (under 30 people) and acoustics are good, you might not need a mic at all. But for larger groups or noisy spaces, make sure speakers can project.
 
+**Screen recording for post-production:** Run screen recording software on the presentation laptop during all speaker segments. This gives your video editor a clean capture of exactly what was on screen, which they can overlay onto the camera footage in post. Without this, the audience sees a presenter pointing at a screen they can't read. One laptop for all presentations makes this simple: start recording before the first speaker, stop after the last one. **Recommended tool:** [Screenflick](https://www.araelium.com/screenflick-mac-screen-recorder) (Mac, one-time purchase). OBS (free, cross-platform) also works.
+
 For recording considerations, see the [Recording an Event](/docs/playbooks/chapter-leader/recording-an-event) playbook.
 
 ---
@@ -244,9 +249,11 @@ Add "Charge portable speaker" and "Queue up music playlist" to your Day Of check
 
 ## Name Tags: Color-Coded by Role
 
-One small thing that makes a big difference: **color-coded name tags**.
+**Name tags are important.** At minimum, use simple blank adhesive name tags so people can write their name. This alone makes networking dramatically easier. Color-coded role tags are an upgrade, not a requirement.
 
-The goal is to help attendees find each other. A young AI native looking for experienced practitioners to learn from should be able to spot them across the room. A business owner looking for talent should know who to approach.
+### The Upgrade: Color-Coded by Role
+
+If you want to go further, color-code name tags by attendee type. The goal is to help people find each other. A young AI native looking for experienced practitioners to learn from should be able to spot them across the room. A business owner looking for talent should know who to approach.
 
 ### The Ideal
 
@@ -287,9 +294,9 @@ At Applied AI Live #1, attendees called the custom name tags out as a highlight.
 
 ## Branded Shirts
 
-A small investment that punches above its weight. At Live #1, we ordered ~10 branded shirts for ~$100. Minimalistic design: white text, orange gradient on black. Staff wore them at the registration desk.
+**Don't skip this one.** Branded shirts are one of the highest-ROI things you can do. Attendees walk in and immediately see an organized team. It signals that this isn't a casual hangout; it's a real event run by real people.
 
-The effect is instant professionalism. Attendees walk in and immediately see an organized team. It signals that this isn't a casual hangout; it's a real event run by real people. Great ROI for perceived quality.
+**How to get them:** Send any local print shop the AAS logo and ask for black shirts in a range of sizes. That's it. At Live #1, we ordered ~10 shirts for ~$100 (white text, orange gradient on black). Minimalistic and clean.
 
 Order them 3+ weeks before your event to allow for printing and shipping. Keep the design simple. The brand should be recognizable but not loud.
 
@@ -298,6 +305,10 @@ Order them 3+ weeks before your event to allow for printing and shipping. Keep t
 ---
 
 ## Food & Drinks
+
+:::tip Optional
+Food is not required. If your budget is tight or you're testing the waters with a first event, skip it. People come for the speakers and the community, not the sandwiches. You can always add food once you've proven the format works.
+:::
 
 Keep it thrifty and replicable. The goal is programming valuable enough that people come for that, not fancy catering.
 
@@ -335,15 +346,15 @@ Don't advertise it as a dinner event. Frame it as "light food provided" or first
 ### Setup
 
 - Laptop with Luma (or your registration platform) open
-- Name tags sorted by color/role
+- Name tags (blank or sorted by color/role)
 - One or two people at the desk
 
 ### Flow
 
 1. Attendee arrives
 2. Check them in on Luma
-3. Hand them the appropriate name tag based on their role
-4. Point them toward food/networking area
+3. Hand them a name tag
+4. Point them toward the networking area
 
 Having an extroverted "connector" person near registration helps. Someone who can introduce newcomers to each other and break the ice.
 
