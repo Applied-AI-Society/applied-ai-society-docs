@@ -3,6 +3,7 @@ import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 const sidebars: SidebarsConfig = {
   docsSidebar: [
     'about/index',
+    'applied-ai-literacy/index',
     {
       type: 'category',
       label: 'Philosophy',

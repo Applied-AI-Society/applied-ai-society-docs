@@ -7,9 +7,9 @@ title: What is the Applied AI Society?
 
 ## The Core Idea
 
-Applied AI Society shortens the time for young people to get their first applied AI money-making opportunity.
+Applied AI Society champions [applied AI literacy](/docs/applied-ai-literacy) as the path to shortening the time for young people to get their first applied AI money-making opportunity.
 
-That's it. That's why we exist. The path from "I don't know how to make money in this economy" to "I got my first applied AI opportunity" is too long, too confusing, and too lonely. We make it shorter.
+That's it. That's why we exist. The path from "I don't know how to make money in this economy" to "I got my first applied AI opportunity" is too long, too confusing, and too lonely. Most people don't even know what's possible. We build the literacy that makes the path visible, then we make it shorter.
 
 ## The Moment We're In
 
@@ -46,6 +46,16 @@ At the heart of everything we do is a simple idea: AI should free people to do m
 Some work requires a human soul: presence, judgment, taste, care, responsibility. Some work is necessary but doesn't carry that weight. Thinking machines exist to carry the second kind so humans can spend more time on the first.
 
 That's the [Applied AI Canon](/docs/philosophy/canon). Efficiency is not the goal. More soul-requiring work is.
+
+## Applied AI Literacy
+
+Applied AI Society is a champion and leader in [applied AI literacy](/docs/applied-ai-literacy).
+
+The gap isn't just that companies need implementation help. The deeper gap is that people don't know what's possible. The Mayor of Austin put it perfectly: "You say AI to people and their knee-jerk is 'we're gonna have more data centers.' They don't know what the application is."
+
+Applied AI literacy means understanding what AI can actually do for your business, your career, and your community. Not just knowing that AI exists, but knowing how to apply it to real problems you face today. It's the difference between hearing about electricity and knowing how to wire a building.
+
+We're developing courses, frameworks, and resources to make applied AI literacy accessible to everyone. [Learn more about our approach to applied AI literacy →](/docs/applied-ai-literacy)
 
 ## How It Works
 
