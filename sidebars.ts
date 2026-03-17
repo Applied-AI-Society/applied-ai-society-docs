@@ -42,6 +42,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'concepts/context-engineering',
         'concepts/intent-engineering',
+        'concepts/liberation-architecture',
       ],
     },
     {
