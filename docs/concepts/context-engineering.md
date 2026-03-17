@@ -67,7 +67,7 @@ These three disciplines form a stack. Each one operates at a different level.
 
 **Intent engineering** is about encoding purpose so agents optimize for the right goals autonomously. It's organizational and strategic. "When this agent makes a decision without me, what should it optimize for?"
 
-Most people are stuck at prompt engineering. They're crafting better and better instructions for an agent that has no idea who they are, what they're working on, or what matters to them. Moving to context engineering is the single highest-leverage shift most people can make right now.
+Most people are stuck at prompt engineering. They're crafting better and better instructions for an agent that has no idea who they are, what they're working on, or what matters to them. Moving to context engineering is the single highest-impact shift most people can make right now.
 
 Intent engineering is the frontier. It's the hardest, least-built discipline, and the most consequential for organizations deploying agents at scale. [Read more about intent engineering →](./intent-engineering)
 

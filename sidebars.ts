@@ -83,6 +83,8 @@ const sidebars: SidebarsConfig = {
             'playbooks/chapter-leader/generating-flyers',
             'playbooks/chapter-leader/recording-an-event',
             'playbooks/chapter-leader/case-study-interviews',
+            'playbooks/chapter-leader/speaker-outreach',
+            'playbooks/chapter-leader/event-promotion',
             'playbooks/chapter-leader/content-distribution',
             'playbooks/chapter-leader/building-partnerships',
             'playbooks/chapter-leader/hosting-an-event',
@@ -226,6 +228,7 @@ const sidebars: SidebarsConfig = {
         'brand/ai-generation',
       ],
     },
+    'partner',
     'code-of-conduct',
   ],
 };

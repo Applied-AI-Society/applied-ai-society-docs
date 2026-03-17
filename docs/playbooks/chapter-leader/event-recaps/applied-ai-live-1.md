@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Applied AI Live #1: Austin"
 ---
 

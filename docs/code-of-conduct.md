@@ -1,5 +1,6 @@
 ---
 sidebar_position: 999
+title: Code of Conduct
 ---
 
 # Code of Conduct

@@ -22,7 +22,7 @@ There's a massive gap between what AI can do and what organizations are actually
 Nobody has this figured out. So let's all agree nobody has this figured out, and let's share notes.
 
 <div style={{textAlign: 'center', margin: '2rem 0'}}>
-  <img src="/img/retro-ad-2026.png" alt="Applied AI Society — Nobody has this figured out. Let's share notes." style={{maxWidth: '420px', width: '100%', borderRadius: '4px'}} />
+  <img src="/img/retro-ad-2026.png" alt="Applied AI Society: Nobody has this figured out. Let's share notes." style={{maxWidth: '420px', width: '100%', borderRadius: '4px'}} />
 </div>
 
 ## Founded By
