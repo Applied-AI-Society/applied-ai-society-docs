@@ -43,6 +43,8 @@ const sidebars: SidebarsConfig = {
         'concepts/context-engineering',
         'concepts/intent-engineering',
         'concepts/liberation-architecture',
+        'concepts/the-encounter',
+        'concepts/the-token-economy',
       ],
     },
     {
