@@ -11,7 +11,7 @@ title: "Game Design"
 
 ## From Player to Coach
 
-Jordan Hill frames the shift happening right now as a move from player to coach. When you're a player, your value comes from execution. When you're a coach, your value comes from strategy, from seeing patterns across the whole field, from making decisions about who plays where and why.
+Jordaaan Hill frames the shift happening right now as a move from player to coach. When you're a player, your value comes from execution. When you're a coach, your value comes from strategy, from seeing patterns across the whole field, from making decisions about who plays where and why.
 
 AI is rapidly absorbing the execution layer. Drafting, researching, building, testing, responding. Increasingly done by agents. The human's job is shifting from playing the game to designing the game. And this shift is not optional. The people who resist it don't avoid the change. They just experience it as disruption rather than opportunity.
 
@@ -79,5 +79,5 @@ This is where real value lives. Anyone can demo an AI tool. A practitioner who d
 - [Intent Engineering](./intent-engineering): The discipline of encoding organizational purpose, the objectives layer of game design
 - [Context Engineering](./context-engineering): The discipline of curating the right information state, the knowledge layer of game design
 - [AI Survival Guide: Meta Work Is Now Work](https://www.garysheng.com/ai-survival-guide/07-the-applied-ai-mindset/meta-work-is-now-work): The philosophical foundation for why designing the game is now the work
-- Hill, Jordan. The "player to coach" framework for understanding the shift from execution to systems design
+- Hill, Jordaaan. The "player to coach" framework for understanding the shift from execution to systems design
 - Naismith, James. Inventor of basketball, and an analogy for designing the game rather than playing it
