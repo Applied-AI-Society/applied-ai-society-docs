@@ -15,6 +15,7 @@ const sidebars: SidebarsConfig = {
         'philosophy/canon',
         'philosophy/principles',
         'philosophy/north-star',
+        'philosophy/voices-from-the-frontier',
       ],
     },
     {
