@@ -140,6 +140,15 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'category',
+          label: 'Student / Explorer',
+          link: {
+            type: 'doc',
+            id: 'playbooks/student/index',
+          },
+          items: [],
+        },
+        {
+          type: 'category',
           label: 'Business Owner',
           link: {
             type: 'doc',
