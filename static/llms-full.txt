@@ -64,7 +64,7 @@ We're developing courses, frameworks, and resources to make applied AI literacy 
 
 ## How It Works
 
-**Chapters.** Applied AI Society runs through hyperlocal chapters in cities and on campuses. Each chapter is led by young people who are already AI-native. They organize events, build community, and create a space where people figure out AI use cases together (not alone).
+**Local communities.** Applied AI Society runs through communities in cities and on campuses. Sometimes that is a formal chapter. Sometimes it is a student group within an existing AI club. Sometimes it is three people who decide to host their first event and see who shows up. The format matters less than the outcome: people in a room, learning applied AI by doing it together.
 
 **Events.** Every Applied AI Society event is an initiation into the applied AI economy. Our flagship format, [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live), brings together live players: practitioners who are rapidly evolving their techniques and excited to share field notes from the front lines. The audience doesn't just hear about what's possible. They get pulled into the current. We're also developing new formats like [Applied AI Office Hours](/docs/playbooks/chapter-leader/event-formats#applied-ai-office-hours) (where business owners get hands-on help from practitioners) and hackathons. [See all event formats →](/docs/playbooks/chapter-leader/event-formats)
 
@@ -90,14 +90,14 @@ Your students and young members are anxious about AI and their careers. They're 
 
 Applied AI Society gives young people a community where they can channel that anxiety into action. Our events draw participants from across departments and backgrounds (not just CS) because applied AI is cross-disciplinary. Business students, design students, liberal arts students all bring perspectives that make implementations better.
 
-Bringing a chapter to your campus or organization means your people get access to practitioners, open resources, and a national network of peers. If you already have a venue that wants this kind of programming, it costs nothing to start. You may want to invest in things like AV and recording, but the barrier to entry is low. We provide the playbooks, the event formats, and the community infrastructure.
+Bringing Applied AI Society to your campus does not require starting a new club from scratch. If you already have an AI club, we can support it with playbooks, shirts, small event budgets, and a connection to the national network. If you do not have one, we can help you start something lightweight. The barrier to entry is low. We provide the playbooks, the event formats, and the community infrastructure.
 
-**Want to bring Applied AI Society to your university or organization?** [Get in touch →](https://appliedaisociety.org/contribute), or reach out to Gary Sheng directly on Telegram (@garysheng) or X DMs (@garysheng).
+**Want to bring Applied AI Society to your university or organization?** [Get in touch →](/docs/contact), or explore a [university partnership →](/docs/university-partnerships).
 
 ## Get Involved
 
 - **Attend an event:** [See upcoming events →](https://appliedaisociety.org/events)
-- **Start a chapter:** [Learn how →](/docs/playbooks/chapter-leader)
+- **Start or join a community:** [Learn how →](/docs/playbooks/chapter-leader)
 - **Present at an event:** [Presenter playbook →](/docs/playbooks/presenter)
 - **Read the docs:** [Browse playbooks, standards, case studies, and philosophy →](/docs/philosophy)
 - **Join the community:** [Join our Discord →](https://discord.gg/K7uWJBMFaN) to meet chapter leaders, practitioners, and members across cities. Follow [@AppliedAISoc on X](https://x.com/appliedaisoc) for updates.
@@ -131,6 +131,16 @@ The Mayor of Austin captured the problem perfectly: "You say AI to people and th
 That's the literacy gap. Most people, most businesses, and most governments have no mental model for what AI can actually do for them. They hear "AI" and think of robots, job loss, or science fiction. They don't think: "This could cut my invoice processing from three days to ten minutes" or "This could help my students get personalized feedback on their writing" or "This could help my city respond to constituent requests twice as fast."
 
 Not understanding applied AI is the new "I don't know how to read." It's that fundamental. Without applied AI literacy, people can't see the opportunities forming around them. They can't protect themselves from the risks, either. They're navigating a new landscape with an old map.
+
+## Applied AI Is the New Coding
+
+Learning how to apply AI to grow businesses is like learning how to code 10 years ago. Back then the message was "everyone should learn to code." Now the message is: everyone should learn to apply AI.
+
+The foundational model companies (OpenAI, Anthropic, xAI) are all building consulting arms to deploy AI inside companies. They are sending engineers directly into corporate offices. The most powerful AI companies on earth looked at the market and said: "Businesses can't figure out how to use this. We need to go in and do it for them."
+
+But here is what they cannot scale: trust. Relationships are the bottleneck to applying AI, not compute, not models, not tokens. A trusted person who can sit down with a business owner, understand their situation, and actually help them. That is the job of the future. And no corporation can monopolize it, because trust is local, relational, and earned one conversation at a time.
+
+Inference is becoming commoditized. LLMs are becoming interchangeable. But trusted applied AI practitioners are the scarcest resource in the market. You can do this work as a solo practitioner or with a very small team. The tools are accessible. The demand is effectively infinite. And the window is wide open.
 
 ## Who It's For
 
@@ -6007,7 +6017,7 @@ Start here: **[Event Formats](/docs/playbooks/chapter-leader/event-formats)** is
 
 | Playbook | Description |
 |----------|-------------|
-| [Starting a Chapter](/docs/playbooks/chapter-leader/starting-a-chapter) | How to launch an Applied AI Society chapter in your city or on your campus |
+| [Starting a Chapter or Community](/docs/playbooks/chapter-leader/starting-a-chapter) | How to launch an Applied AI Society community in your city or on your campus (formal chapter, student group, or embedded in an existing AI club) |
 | [Building Partnerships](/docs/playbooks/chapter-leader/building-partnerships) | Win-win partnerships for chapter growth |
 | [Tools](/docs/playbooks/chapter-leader/tools) | Meetup, Luma, and other tools that help run chapters |
 | [Getting Things Done](/docs/playbooks/chapter-leader/getting-things-done) | Using Cursor as a command center (stub) |
@@ -7607,13 +7617,13 @@ After your first few events, this gets easier. Presenters recommend other presen
 
 
 ---
-# Starting a Chapter
+# Starting a Chapter or Community
 URL: https://docs.appliedaisociety.org/docs/playbooks/chapter-leader/starting-a-chapter
 
 
-# Starting a Chapter
+# Starting a Chapter or Community
 
-How to launch an Applied AI Society chapter in your city or on your campus.
+How to launch an Applied AI Society community in your city or on your campus. This could be a formal chapter, a student group within an existing AI club, or something in between.
 
 <div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', marginTop: '1.5rem', marginBottom: '1.5rem'}}>
   <iframe src="https://share.descript.com/embed/cqqxIqK2Zum" width="100%" height="100%" style={{position: 'absolute', top: 0, left: 0}} frameBorder="0" allowFullScreen></iframe>
@@ -7621,13 +7631,15 @@ How to launch an Applied AI Society chapter in your city or on your campus.
 
 ---
 
-## Why Chapters Exist
+## Why Local Communities Exist
 
-Applied AI Society exists to shorten the time for young people to get their first applied AI money-making opportunity. Chapters are where that actually happens.
+Applied AI Society exists to shorten the time for young people to get their first applied AI money-making opportunity. Local communities are where that actually happens.
 
-There's a massive gap between what AI can do and what organizations are actually doing with it. That gap is full of opportunity: consulting gigs, startup ideas, automation contracts, freelance engineering work, full-time roles. But most young people can't see those opportunities from where they sit. They need to be in a room with people who are already making money in this space.
+There is a massive gap between what AI can do and what organizations are actually doing with it. That gap is full of opportunity: consulting gigs, startup ideas, automation contracts, freelance engineering work, full-time roles. But most young people cannot see those opportunities from where they sit. They need to be in a room with people who are already making money in this space.
 
-Chapters create that room. Practitioners share how they earn a living in applied AI. Business owners describe the problems they'll pay to have solved. Members build networks that generate real deal flow, career flow, and knowledge flow. Every chapter is a local center of gravity for the applied AI economy in its city or campus.
+That room can take many forms. It could be a formal Applied AI Society chapter. It could be a student group within your university's existing AI club. It could be three friends who host their first workshop and see who shows up. The format matters less than the outcome: people learning applied AI by doing it together.
+
+If your campus already has an AI club, you do not need to start a new one. Hook in. Wear the shirt. Use the playbooks. Host an Applied AI event within the club you already have. We will support you with resources, small budgets, and a connection to the national network.
 
 The model is subsidiarity: national provides the playbooks, brand, and network. You provide the energy, the people, and the local context.
 
@@ -7667,9 +7679,9 @@ We think about this as an **ideal scene profile**: treating cities themselves as
 - **Are there customers nearby?** Chapters thrive when there are local businesses who will pay for applied AI work. If most of your city's talent has to look elsewhere for clients, the practitioner pipeline is harder to build.
 - **Who's already doing this work?** Find the other community leaders, meetup organizers, and ecosystem builders in your city. If you can't name them, you need to spend more time learning the landscape before launching. A chapter leader who doesn't know the other players in their city is a red flag.
 
-**The principle:** We're most impactful in cities where the floor needs raising. Cities already on the bleeding edge of AI (dense talent, tons of events, strong networks) may not need another community. Cities with real talent but no connective tissue for applied AI work: that's where chapters change lives.
+**The principle:** We are most impactful when we connect to where people already gather. If your city has an AI club, a startup accelerator, or existing tech communities, build on those. If there is a gap and no connective tissue for applied AI work, build something new. Either way, the goal is literacy at scale, not new infrastructure for its own sake.
 
-Your chapter doesn't have to look like Austin's. It should look like your city, run by someone who understands what your city needs.
+Your community does not have to look like Austin's. It should look like your city, run by someone who understands what your city needs.
 
 ---
 
@@ -7695,7 +7707,7 @@ Your chapter doesn't have to look like Austin's. It should look like your city, 
 
 ## What's Expected of You
 
-**Run events.** The core of any chapter is regular events. Start with monthly. Every event is an initiation into the applied AI economy. The concept: you're giving your audience a landscape map. Practitioners who are actually making money in applied AI share their field notes. The audience leaves knowing what the paths are, what's real, and what's hype. The call to action is simple: join this community to compare notes, co-work, and share opportunities. Formats can vary ([see the full catalog](/docs/playbooks/chapter-leader/event-formats)) but the through-line is always the same.
+**Run events.** The core of any community is regular events. Start with monthly. Every event is an initiation into the applied AI economy. The concept: you are giving your audience a landscape map. Practitioners who are actually making money in applied AI share their field notes. The audience leaves knowing what the paths are, what is real, and what is hype. These events can happen through your own chapter, through an existing AI club, through a coworking space, or through a university department. The venue and structure are flexible. The through-line is always the same. Formats can vary ([see the full catalog](/docs/playbooks/chapter-leader/event-formats)).
 
 **Add AAS national as a manager on every event.** Whether you use Luma, Meetup, or both, add the national AAS account as a co-host or manager on every event page. This gives national access to the attendee list and lets us build a shared email list across all chapters. A strong national list benefits every chapter: it lets us promote your events to members in nearby cities, send national updates, and build the overall community.
 
@@ -10594,6 +10606,101 @@ Most of the audience falls into the first category. They want actionable advice 
 
 
 ---
+# Student / Explorer
+URL: https://docs.appliedaisociety.org/docs/playbooks/student
+
+
+# Student / Explorer Playbook
+
+This playbook is for anyone who is still finding their way. That might mean you are 21 and about to graduate. It might mean you are 45 and starting over. It might mean you have had real success but the ground is shifting and you are rethinking what comes next.
+
+Being a student is a beautiful thing at any age. It means you are open. You are not pretending to have it figured out. That openness is actually your advantage right now, because the people who are willing to learn and experiment are the ones who will thrive in the applied AI economy. The people who are rigid will struggle.
+
+## Where You Might Be
+
+Most people exploring applied AI tend toward one of two directions. These are not boxes. You might be somewhere in between, or you might shift over time. But it helps to be honest about where you are starting from.
+
+### You Have a Burning Domain Calling
+
+You see a specific industry or problem with absolute clarity. You know the pain points because you have lived them. You have a vision for how AI should transform that space, and you cannot stop thinking about it.
+
+If this is genuinely you, go build. But be honest with yourself about whether you truly have domain expertise or whether you just think the idea sounds cool. The difference matters.
+
+### You Want to Be Useful
+
+You are smart, capable, and excited about AI. But you do not have a specific industry burning in your chest. You are looking for where you fit.
+
+This is most people. And it is a great position to be in.
+
+The strongest advice: **become the bridge between domain experts and AI.** Do not try to pull a company idea out of thin air for an industry you do not deeply understand. Instead, find people who already have traction and make yourself invaluable to them. Your superpower is not replacing their domain knowledge. It is translating between their world and the AI world. They know the problems. You know the tools. Together you are a team.
+
+## Step 0: Show Up
+
+Before anything else, go where the practitioners are. You do not have to figure this out alone.
+
+- **Attend an [Applied AI Live](/docs/playbooks/chapter-leader/applied-ai-live) event** (or any local AI meetup). Sit next to someone. Ask what they are working on. You will learn more in one evening of real conversation than in a week of tutorials.
+- **Join the [Discord](https://discord.gg/K7uWJBMFaN)**. Ask questions. Share what you are building. The community is generous with people who show initiative.
+- **Follow along on [X](https://x.com/appliedaisoc)**. See what practitioners are actually doing day to day.
+
+The number one thing that accelerates your learning is being around people who are a few steps ahead of you. Not reading about them. Being around them.
+
+## The Applied AI Practitioner Path
+
+The most valuable thing you can do right now is learn how to apply AI to real problems for real people. Not in theory. In practice.
+
+Here is why this works:
+
+1. **Relationships are the bottleneck.** The biggest AI companies on earth (OpenAI, Anthropic, xAI) are all building consulting arms because businesses cannot figure out how to use AI on their own. But those companies cannot scale trust. Trust is local, relational, and earned one conversation at a time. You can compete on trust.
+
+2. **Domain experts need you.** They know their industry inside and out. They do not know how to use Claude to automate their proposal process or how to build an AI-assisted workflow for their team. You are the bridge. They have the problems. You have the tools.
+
+3. **You can start small.** Help one person with one problem. A local business owner who needs their invoicing automated. A professor who wants to use AI in their research workflow. A nonprofit that needs better donor outreach. Start with anyone who will let you help.
+
+4. **Every engagement teaches you.** Each person you help gives you a deeper understanding of how businesses actually work, what the real pain points are, and where AI creates the most value. This knowledge compounds fast.
+
+5. **You can do this solo.** You do not need a company, a team, or funding. You need a laptop, curiosity, and the willingness to sit down with someone and figure out their problems.
+
+## What to Do This Week
+
+1. **Show up to one event or community space** where applied AI practitioners hang out. In person is best. Online works too. Just be in the room.
+
+2. **Pick one person in your life who runs a business or a team.** Could be a family member, a professor, a local shop owner, anyone.
+
+3. **Ask them: "What takes up the most time in your day that you wish you could speed up?"** Listen carefully. Do not pitch. Just listen.
+
+4. **Open [Claude](https://claude.ai) and try to solve that problem.** Not perfectly. Just see if AI can do something useful with what they described. Build a quick prototype, draft a workflow, or write up a one-page proposal for how it could work.
+
+5. **Show it to them.** Not a pitch deck. A working thing, or at least a clear explanation of how it would work. Let them react. Iterate from there.
+
+The goal is reps. The first one will be clumsy. The fifth one will be good. The twentieth one will be impressive. Start now.
+
+## What to Learn
+
+You do not need to learn everything. Focus on:
+
+- **How to talk to non-technical people about AI.** This is the most valuable skill. Most people cannot have a productive conversation about AI because no one has taught them how. Be the person who can.
+- **How to scope a pilot.** What is the specific problem? What does success look like? How long will it take? What does it cost? These are the questions that turn a vague "we should use AI" into an actual project. See the [Pilot Scope](/docs/playbooks/business-owner/pilot-scope) playbook.
+- **How to use AI tools effectively.** Start with [Claude](https://claude.ai). Learn to give it good context. Learn to iterate on its output. Learn [context engineering](/docs/concepts/context-engineering). This is where the real leverage is.
+- **How businesses actually work.** Invoicing, scheduling, customer outreach, hiring, operations. The more you understand about how businesses run, the better you can spot where AI fits.
+
+## Resources
+
+- [Applied AI Literacy](/docs/applied-ai-literacy): What applied AI literacy actually means and why it matters
+- [Practitioner Playbook](/docs/playbooks/practitioner): Once you are ready to do this professionally
+- [Business Owner Playbook](/docs/playbooks/business-owner): Understand the perspective of the people you will be helping
+- [Case Studies](/docs/case-studies): Real examples of applied AI in practice
+- [Context Engineering](/docs/concepts/context-engineering): The real skill behind effective AI use
+
+## The Bigger Picture
+
+Applied AI is the new coding. Learning how to apply AI to grow businesses is like learning how to code was 10 years ago. The demand is infinite. The tools are accessible. And the window is wide open.
+
+The people who start now, even from zero, are going to be in an incredibly strong position in 12 to 24 months. Not because they picked the right startup idea. Because they built the skill of helping real people with real problems using AI. That skill does not go out of style.
+
+You do not have to do this alone. That is the whole point of Applied AI Society.
+
+
+---
 # AI Agent Consultant
 URL: https://docs.appliedaisociety.org/docs/roles/ai-agent-consultant
 
@@ -12753,7 +12860,7 @@ Our members are builders, engineers, and consultants who actually use AI every d
 
 ### You get an implementation partner
 
-Our partners at Open Teams and OTI provide the technical expertise to build what your institution needs, from internal AI tooling to student-facing platforms. You don't have to figure out the technology alone.
+Our partners at OpenTeams and OTI provide the technical expertise to build what your institution needs, from internal AI tooling to student-facing platforms. You don't have to figure out the technology alone.
 
 ### You get events infrastructure
 

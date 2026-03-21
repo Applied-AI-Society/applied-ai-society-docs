@@ -60,7 +60,7 @@
 - [Recording an Event](https://docs.appliedaisociety.org/docs/playbooks/chapter-leader/recording-an-event)
 - [Running a Hackathon](https://docs.appliedaisociety.org/docs/playbooks/chapter-leader/running-a-hackathon)
 - [Speaker Outreach](https://docs.appliedaisociety.org/docs/playbooks/chapter-leader/speaker-outreach)
-- [Starting a Chapter](https://docs.appliedaisociety.org/docs/playbooks/chapter-leader/starting-a-chapter)
+- [Starting a Chapter or Community](https://docs.appliedaisociety.org/docs/playbooks/chapter-leader/starting-a-chapter)
 - [Tools](https://docs.appliedaisociety.org/docs/playbooks/chapter-leader/tools)
 - [Twitter Automation](https://docs.appliedaisociety.org/docs/playbooks/chapter-leader/twitter-automation)
 - [Writing & Sharing Event Recaps](https://docs.appliedaisociety.org/docs/playbooks/chapter-leader/writing-and-sharing-event-recaps)
@@ -76,6 +76,7 @@
 - [Pricing Your AI Engagements](https://docs.appliedaisociety.org/docs/playbooks/practitioner/pricing)
 - [Presenter Playbooks](https://docs.appliedaisociety.org/docs/playbooks/presenter)
 - [Presenting at Applied AI Live](https://docs.appliedaisociety.org/docs/playbooks/presenter/presenting-at-applied-ai-live)
+- [Student / Explorer](https://docs.appliedaisociety.org/docs/playbooks/student): A playbook for students, new grads, career changers, and anyone still figuring out where they fit in the applied AI economy.
 - [AI Agent Consultant](https://docs.appliedaisociety.org/docs/roles/ai-agent-consultant)
 - [AI Enablement Coach](https://docs.appliedaisociety.org/docs/roles/ai-enablement-coach)
 - [AI Workflow Architect](https://docs.appliedaisociety.org/docs/roles/ai-workflow-architect)
@@ -106,4 +107,4 @@
 - [University Partnerships](https://docs.appliedaisociety.org/docs/university-partnerships): Partner with Applied AI Society to set a new standard for applied AI education at your university.
 
 ---
-Generated at build time. 100 pages indexed.
+Generated at build time. 101 pages indexed.
